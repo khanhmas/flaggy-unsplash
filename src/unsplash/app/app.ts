@@ -4,10 +4,16 @@ import cors from 'cors';
 
 const app = express();
 
-app.use(cors({
-    origin: 'https://172.17.207.46:8080'
-}));
-app.use(UnsplashRoute);
+/**
+ * IMPORTANT: Need to access the express server (with the corresponding port)
+ * by Chrome to bypass the NET::ERR_CERT_AUTHORITY_INVALID
+ */
+app.use(
+    cors({
+        origin: 'https://localhost:8080',
+    })
+);
+app.use('/unsplash', UnsplashRoute);
 
 // app.listen(3000);
 export default app;

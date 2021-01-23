@@ -4,3 +4,4 @@ dist
 rest_client
 .history
 certs
+.vscode

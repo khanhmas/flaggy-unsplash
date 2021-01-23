@@ -3,8 +3,8 @@ import fs from 'fs';
 import app from './app/app';
 
 const port: number = 3000;
-const key: Buffer = fs.readFileSync(__dirname + '/../../certs/selfsigned.key');
-const cert: Buffer = fs.readFileSync(__dirname + '/../../certs/selfsigned.crt');
+const key: Buffer = fs.readFileSync(__dirname + '/../../certs/server.key');
+const cert: Buffer = fs.readFileSync(__dirname + '/../../certs/server.cert');
 const options: Record<string, Buffer> = {
     key,
     cert,
