@@ -36,8 +36,49 @@ router.get(
             testData.results,
         ];
         if (page <= results.length) {
+            const customSizePhotos: Array<Photos> = results[page - 1].map(
+                (photo: {urls: {raw: string}}) => {
+                    const dice: number = Math.floor(Math.random() * 20);
+                    let width: number = 1080;
+                    let height: number = 1080;
+                    let classSize: string = 'row-span-2 col-span-2';
+                    let ar: string = '1:1';
+
+                    if (dice <= 5) {
+                        width /= 2;
+                        height /= 2;
+                        classSize = '';
+                    } else if (dice > 5 && dice <= 10) {
+                        height /= 2;
+                        classSize = 'col-span-2';
+                        ar = '2:1';
+                    } else if (dice > 10 && dice <= 15) {
+                        width /= 2;
+                        classSize = 'row-span-2';
+                        ar = '1:2';
+                    }
+                    return {
+                        ...photo,
+                        urls: {
+                            ...photo.urls,
+                            raw: [
+                                photo.urls.raw,
+                                'ar=' + ar,
+                                'fm=png',
+                                'fit=crop',
+                                'auto=format',
+                                'w=' + width,
+                                'h=' + height,
+                                'q=100',
+                            ].join('&'),
+                        },
+                        classSize,
+                    };
+                }
+            );
+
             res.status(200).send({
-                results: [...results[page - 1]],
+                results: customSizePhotos,
             });
         } else {
             res.status(500).send({
