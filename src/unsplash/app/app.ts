@@ -1,15 +1,28 @@
 import express from 'express';
+import fs from 'fs';
+import path from 'path';
 import UnsplashRoute from '../routes/search';
 import cors from 'cors';
 import bodyParser from 'body-parser';
+import helmet from 'helmet';
+import compression from 'compression';
+import morgan from 'morgan';
 
+const logStream: fs.WriteStream = fs.createWriteStream(
+    path.join(__dirname, '../logs.log'),
+    { flags: 'a' }
+);
 const app = express();
 
-app.use(bodyParser.urlencoded({
-    extended: true
-}));
+app.use(
+    bodyParser.urlencoded({
+        extended: true,
+    })
+);
 app.use(bodyParser.json());
 app.use(bodyParser.raw());
+
+app.use(morgan('combined', {stream: logStream}));
 
 /**
  * IMPORTANT: Need to access the express server (with the corresponding port)
@@ -17,9 +30,15 @@ app.use(bodyParser.raw());
  */
 app.use(
     cors({
-        origin: 'https://localhost:8080',
+        origin: process.env.ALLOWED_HOST,
     })
 );
+app.use(helmet());
+/**
+ * The compression may be useful later
+ * This middleware will compress all assets before sending to the front
+ */
+app.use(compression());
 app.use('/unsplash', UnsplashRoute);
 
 export default app;

@@ -5,3 +5,4 @@ rest_client
 .history
 certs
 .vscode
+.env
