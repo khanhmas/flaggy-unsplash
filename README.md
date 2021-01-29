@@ -11,4 +11,4 @@ heroku run bash -a APPNAME
 
 git push heroku master (if current branch is master)
 
-git push heroky localbranch:master (if localbranch is different from master)
+git push heroku localbranch:master (if localbranch is different from master)

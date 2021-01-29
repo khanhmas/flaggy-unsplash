@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node dist/unsplash/server.js",
     "postinstall": "tsc",
+    "start-unsplash-local-production": "nodemon -r dotenv/config dist/unsplash/server.js dotenv_config_path=.env.local-production",
     "start-unsplash": "nodemon -r dotenv/config dist/unsplash/server.js",
     "lint": "eslint --fix . --ext .ts"
   },

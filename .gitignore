@@ -6,3 +6,4 @@ rest_client
 certs
 .vscode
 .env
+.env.*
