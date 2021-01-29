@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node dist/unsplash/server.js",
+    "postinstall": "tsc",
     "start-unsplash": "nodemon -r dotenv/config dist/unsplash/server.js",
     "lint": "eslint --fix . --ext .ts"
   },
