@@ -4,7 +4,7 @@
   "description": "For flaggy",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon -r dotenv/config dist/server.js",
+    "start": "node dist/unsplash/server.js",
     "start-unsplash": "nodemon -r dotenv/config dist/unsplash/server.js",
     "lint": "eslint --fix . --ext .ts"
   },
