@@ -1,1 +1,1 @@
-web: node dist/unsplash/server.js
+web: node dist/server.js
