@@ -4,10 +4,10 @@
   "description": "For flaggy",
   "main": "index.js",
   "scripts": {
-    "start": "node dist/unsplash/server.js",
+    "start": "node dist/server.js",
     "postinstall": "tsc",
-    "start-unsplash-local-production": "nodemon -r dotenv/config dist/unsplash/server.js dotenv_config_path=.env.local-production",
-    "start-unsplash": "nodemon -r dotenv/config dist/unsplash/server.js",
+    "dev-production": "nodemon -r dotenv/config dist/server.js dotenv_config_path=.env.local-production",
+    "dev": "nodemon -r dotenv/config dist/server.js; ifconfig",
     "lint": "eslint --fix . --ext .ts"
   },
   "engines": {
@@ -16,6 +16,7 @@
   "author": "Alex",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
     "cors": "^2.8.5",

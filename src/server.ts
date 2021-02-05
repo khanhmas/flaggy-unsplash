@@ -5,9 +5,9 @@ import app from './app/app';
 const port: string = process.env.PORT || '3000';
 let server;
 if (process.env.NODE_ENV !== 'production') {
-    const key: Buffer = fs.readFileSync(__dirname + '/../../certs/server.key');
+    const key: Buffer = fs.readFileSync(__dirname + '/../certs/server.key');
     const cert: Buffer = fs.readFileSync(
-        __dirname + '/../../certs/server.cert'
+        __dirname + '/../certs/server.cert'
     );
     const options: Record<string, Buffer> = {
         key,

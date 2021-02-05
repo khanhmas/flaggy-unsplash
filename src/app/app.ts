@@ -1,12 +1,14 @@
 import express from 'express';
 import fs from 'fs';
 import path from 'path';
-import UnsplashRoute from '../routes/search';
 import cors from 'cors';
 import bodyParser from 'body-parser';
 import helmet from 'helmet';
 import compression from 'compression';
 import morgan from 'morgan';
+
+import UnsplashRoute from '../routes/unsplash';
+import CountryRoute from '../routes/country';
 
 const logStream: fs.WriteStream = fs.createWriteStream(
     path.join(__dirname, '../logs.log'),
@@ -40,5 +42,6 @@ app.use(helmet());
  */
 app.use(compression());
 app.use('/unsplash', UnsplashRoute);
+app.use('/country', CountryRoute);
 
 export default app;
