@@ -86,6 +86,7 @@ export default [
             }
         ],
         "cioc": "AFG",
+        "linearGradients": "rgb(0, 153, 0),rgb(58, 115, 8),rgb(108, 102, 29),rgb(148, 105, 56),rgb(179, 119, 83),rgb(200, 136, 104),rgb(211, 150, 113),rgb(213, 154, 102),rgb(206, 142, 67),rgb(189, 107, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -281,6 +282,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(0, 83, 165),rgb(52, 106, 131),rgb(98, 122, 102),rgb(136, 130, 79),rgb(167, 130, 61),rgb(190, 123, 48),rgb(206, 107, 41),rgb(215, 84, 39),rgb(216, 54, 43),rgb(210, 16, 52)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -361,6 +363,7 @@ export default [
             }
         ],
         "cioc": "ALB",
+        "linearGradients": "rgb(228, 30, 32),rgb(202, 26, 28),rgb(177, 23, 24),rgb(152, 20, 21),rgb(126, 16, 17),rgb(101, 13, 14),rgb(76, 10, 10),rgb(50, 6, 7),rgb(25, 3, 3),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -579,6 +582,7 @@ export default [
             }
         ],
         "cioc": "ALG",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 221, 212),rgb(164, 188, 174),rgb(136, 158, 141),rgb(120, 130, 114),rgb(115, 103, 91),rgb(121, 79, 74),rgb(139, 56, 61),rgb(169, 35, 54),rgb(210, 16, 52)",
         "populationHistory": {
             "years": [
                 1960,
@@ -773,6 +777,7 @@ export default [
         "flag": "https://restcountries.eu/data/asm.svg",
         "regionalBlocs": [],
         "cioc": "ASA",
+        "linearGradients": "rgb(0, 0, 102),rgb(40, 6, 90),rgb(77, 18, 85),rgb(112, 35, 88),rgb(143, 58, 98),rgb(172, 86, 115),rgb(197, 120, 139),rgb(219, 159, 170),rgb(238, 204, 209),rgb(255, 255, 255),rgb(156, 57, 0),rgb(167, 72, 3),rgb(178, 87, 7),rgb(189, 102, 11),rgb(200, 117, 14),rgb(211, 133, 18),rgb(222, 148, 22),rgb(233, 163, 25),rgb(244, 178, 29),rgb(255, 194, 33)",
         "populationHistory": {
             "years": [
                 1960,
@@ -963,6 +968,7 @@ export default [
         "flag": "https://restcountries.eu/data/and.svg",
         "regionalBlocs": [],
         "cioc": "AND",
+        "linearGradients": "rgb(208, 16, 58),rgb(214, 56, 47),rgb(213, 87, 43),rgb(205, 108, 44),rgb(189, 119, 51),rgb(166, 120, 63),rgb(136, 111, 81),rgb(98, 92, 104),rgb(52, 63, 133),rgb(0, 24, 168),rgb(199, 179, 127),rgb(181, 154, 108),rgb(169, 131, 92),rgb(161, 111, 78),rgb(158, 93, 65),rgb(160, 78, 54),rgb(166, 66, 45),rgb(177, 55, 38),rgb(192, 48, 33),rgb(213, 43, 30),rgb(255, 255, 255),rgb(251, 245, 203),rgb(241, 234, 163),rgb(225, 221, 134),rgb(203, 205, 116),rgb(174, 188, 108),rgb(140, 169, 112),rgb(99, 148, 126),rgb(52, 125, 152),rgb(0, 101, 189)",
         "populationHistory": {
             "years": [
                 1960,
@@ -1168,6 +1174,7 @@ export default [
             }
         ],
         "cioc": "ANG",
+        "linearGradients": "rgb(0, 0, 0),rgb(43, 6, 7),rgb(83, 16, 14),rgb(119, 31, 19),rgb(150, 50, 23),rgb(178, 74, 25),rgb(202, 102, 26),rgb(221, 135, 26),rgb(237, 172, 24),rgb(249, 214, 22)",
         "populationHistory": {
             "years": [
                 1960,
@@ -1353,6 +1360,7 @@ export default [
         "flag": "https://restcountries.eu/data/aia.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 36, 125),rgb(43, 71, 111),rgb(83, 104, 105),rgb(119, 135, 106),rgb(151, 162, 114),rgb(179, 186, 128),rgb(204, 208, 149),rgb(224, 226, 178),rgb(241, 242, 213),rgb(255, 255, 255),rgb(153, 204, 255),rgb(164, 198, 226),rgb(175, 192, 198),rgb(187, 187, 170),rgb(198, 181, 141),rgb(209, 175, 113),rgb(221, 170, 85),rgb(232, 164, 56),rgb(243, 158, 28),rgb(255, 153, 0)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -1434,6 +1442,7 @@ export default [
         "flag": "https://restcountries.eu/data/ata.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(58, 125, 206),rgb(79, 139, 211),rgb(101, 153, 216),rgb(123, 168, 222),rgb(145, 182, 227),rgb(167, 197, 233),rgb(189, 211, 238),rgb(211, 226, 244),rgb(233, 240, 249),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -1510,6 +1519,7 @@ export default [
             }
         ],
         "cioc": "ANT",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 204, 201),rgb(166, 164, 155),rgb(141, 136, 115),rgb(128, 119, 83),rgb(128, 114, 57),rgb(140, 121, 38),rgb(165, 139, 25),rgb(202, 168, 20),rgb(252, 209, 22),rgb(0, 114, 198),rgb(22, 103, 180),rgb(45, 92, 162),rgb(68, 81, 144),rgb(91, 70, 126),rgb(114, 60, 109),rgb(137, 49, 91),rgb(160, 38, 73),rgb(183, 27, 55),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -1725,6 +1735,7 @@ export default [
             }
         ],
         "cioc": "ARG",
+        "linearGradients": "rgb(116, 172, 223),rgb(145, 188, 226),rgb(170, 201, 223),rgb(192, 209, 214),rgb(210, 214, 197),rgb(224, 215, 174),rgb(235, 212, 144),rgb(242, 205, 107),rgb(246, 194, 64),rgb(246, 180, 14),rgb(133, 52, 10),rgb(132, 52, 10),rgb(132, 52, 11),rgb(132, 52, 12),rgb(132, 52, 13),rgb(132, 52, 14),rgb(132, 52, 15),rgb(132, 52, 16),rgb(132, 53, 17)",
         "populationHistory": {
             "years": [
                 1960,
@@ -1933,6 +1944,7 @@ export default [
             }
         ],
         "cioc": "ARM",
+        "linearGradients": "rgb(242, 168, 0),rgb(193, 142, 31),rgb(157, 119, 56),rgb(131, 97, 73),rgb(117, 77, 82),rgb(114, 58, 84),rgb(123, 41, 79),rgb(143, 25, 66),rgb(174, 12, 45),rgb(217, 0, 18)",
         "populationHistory": {
             "years": [
                 1960,
@@ -2124,6 +2136,7 @@ export default [
         "flag": "https://restcountries.eu/data/abw.svg",
         "regionalBlocs": [],
         "cioc": "ARU",
+        "linearGradients": "rgb(65, 137, 221),rgb(119, 160, 169),rgb(162, 180, 142),rgb(194, 192, 133),rgb(216, 196, 135),rgb(228, 190, 140),rgb(233, 170, 141),rgb(231, 136, 132),rgb(222, 85, 104),rgb(210, 16, 52)",
         "populationHistory": {
             "years": [
                 1960,
@@ -2316,6 +2329,7 @@ export default [
         "flag": "https://restcountries.eu/data/aus.svg",
         "regionalBlocs": [],
         "cioc": "AUS",
+        "linearGradients": "rgb(0, 0, 139),rgb(28, 28, 151),rgb(56, 56, 164),rgb(85, 85, 177),rgb(113, 113, 190),rgb(141, 141, 203),rgb(170, 170, 216),rgb(198, 198, 229),rgb(226, 226, 242),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -2520,6 +2534,7 @@ export default [
             }
         ],
         "cioc": "AUT",
+        "linearGradients": "rgb(237, 41, 57),rgb(239, 64, 79),rgb(241, 88, 101),rgb(243, 112, 123),rgb(245, 136, 145),rgb(247, 159, 167),rgb(249, 183, 189),rgb(251, 207, 211),rgb(253, 231, 233),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -2713,6 +2728,7 @@ export default [
         "flag": "https://restcountries.eu/data/aze.svg",
         "regionalBlocs": [],
         "cioc": "AZE",
+        "linearGradients": "rgb(255, 255, 255),rgb(238, 184, 199),rgb(210, 139, 164),rgb(175, 115, 145),rgb(135, 109, 138),rgb(96, 114, 137),rgb(59, 128, 137),rgb(28, 145, 134),rgb(7, 162, 124),rgb(0, 174, 101)",
         "populationHistory": {
             "years": [
                 1960,
@@ -2910,6 +2926,7 @@ export default [
             }
         ],
         "cioc": "BAH",
+        "linearGradients": "rgb(0, 171, 201),rgb(49, 179, 171),rgb(86, 180, 144),rgb(111, 175, 118),rgb(123, 163, 94),rgb(123, 144, 72),rgb(111, 118, 51),rgb(86, 85, 32),rgb(49, 46, 15),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -3108,6 +3125,7 @@ export default [
             }
         ],
         "cioc": "BRN",
+        "linearGradients": "rgb(255, 255, 255),rgb(249, 228, 230),rgb(244, 202, 206),rgb(238, 175, 182),rgb(233, 149, 158),rgb(227, 122, 134),rgb(222, 96, 110),rgb(216, 69, 86),rgb(211, 43, 62),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -3305,6 +3323,7 @@ export default [
             }
         ],
         "cioc": "BAN",
+        "linearGradients": "rgb(0, 106, 78),rgb(27, 98, 76),rgb(54, 91, 75),rgb(81, 84, 73),rgb(108, 77, 72),rgb(135, 70, 70),rgb(162, 63, 69),rgb(189, 56, 67),rgb(216, 49, 66),rgb(244, 42, 65)",
         "populationHistory": {
             "years": [
                 1960,
@@ -3501,6 +3520,7 @@ export default [
             }
         ],
         "cioc": "BAR",
+        "linearGradients": "rgb(0, 38, 127),rgb(50, 69, 107),rgb(88, 91, 89),rgb(113, 105, 73),rgb(125, 109, 57),rgb(125, 105, 43),rgb(113, 92, 31),rgb(88, 70, 19),rgb(50, 39, 9),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -3718,6 +3738,7 @@ export default [
             }
         ],
         "cioc": "BLR",
+        "linearGradients": "rgb(200, 49, 62),rgb(175, 74, 69),rgb(159, 99, 80),rgb(150, 123, 94),rgb(148, 147, 112),rgb(154, 170, 133),rgb(168, 192, 158),rgb(189, 214, 187),rgb(218, 234, 219),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -3935,6 +3956,7 @@ export default [
             }
         ],
         "cioc": "BEL",
+        "linearGradients": "rgb(237, 41, 57),rgb(238, 61, 58),rgb(239, 81, 59),rgb(241, 102, 60),rgb(242, 122, 61),rgb(244, 142, 62),rgb(245, 162, 63),rgb(247, 183, 64),rgb(248, 203, 65),rgb(250, 224, 66)",
         "populationHistory": {
             "years": [
                 1960,
@@ -4150,6 +4172,7 @@ export default [
             }
         ],
         "cioc": "BIZ",
+        "linearGradients": "rgb(206, 17, 38),rgb(165, 29, 59),rgb(137, 44, 82),rgb(119, 63, 105),rgb(113, 86, 128),rgb(119, 113, 152),rgb(136, 143, 177),rgb(164, 176, 202),rgb(204, 214, 228),rgb(255, 255, 255),rgb(0, 127, 0),rgb(1, 117, 0),rgb(5, 107, 0),rgb(12, 95, 0),rgb(22, 82, 0),rgb(35, 68, 0),rgb(51, 53, 0),rgb(69, 36, 0),rgb(90, 18, 0),rgb(115, 0, 0),rgb(40, 148, 0),rgb(65, 162, 51),rgb(91, 174, 91),rgb(115, 185, 120),rgb(140, 194, 137),rgb(164, 202, 144),rgb(187, 208, 140),rgb(210, 212, 124),rgb(232, 214, 97),rgb(255, 216, 60),rgb(255, 0, 24),rgb(202, 23, 58),rgb(158, 46, 83),rgb(123, 69, 99),rgb(96, 91, 106),rgb(78, 114, 103),rgb(68, 136, 91),rgb(67, 157, 70),rgb(74, 178, 39),rgb(90, 200, 0),rgb(255, 216, 0),rgb(239, 187, 2),rgb(226, 165, 9),rgb(215, 149, 22),rgb(207, 140, 39),rgb(201, 136, 61),rgb(198, 139, 88),rgb(197, 147, 120),rgb(199, 162, 158),rgb(204, 184, 200),rgb(120, 33, 33),rgb(122, 42, 51),rgb(128, 54, 67),rgb(137, 66, 79),rgb(149, 79, 87),rgb(164, 94, 91),rgb(182, 110, 93),rgb(203, 127, 90),rgb(227, 145, 84),rgb(255, 165, 75),rgb(0, 0, 0),rgb(49, 31, 3),rgb(93, 60, 14),rgb(129, 87, 32),rgb(156, 111, 55),rgb(173, 131, 85),rgb(178, 146, 120),rgb(168, 155, 161),rgb(143, 157, 205),rgb(102, 153, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -4355,6 +4378,7 @@ export default [
             }
         ],
         "cioc": "BEN",
+        "linearGradients": "rgb(252, 209, 22),rgb(244, 170, 27),rgb(232, 138, 32),rgb(215, 115, 38),rgb(192, 99, 45),rgb(164, 91, 51),rgb(131, 90, 58),rgb(92, 97, 65),rgb(48, 112, 73),rgb(0, 135, 81)",
         "populationHistory": {
             "years": [
                 1960,
@@ -4543,6 +4567,7 @@ export default [
         "flag": "https://restcountries.eu/data/bmu.svg",
         "regionalBlocs": [],
         "cioc": "BER",
+        "linearGradients": "rgb(0, 36, 125),rgb(44, 35, 110),rgb(84, 41, 103),rgb(120, 53, 103),rgb(152, 71, 110),rgb(180, 95, 124),rgb(205, 126, 146),rgb(225, 162, 175),rgb(242, 205, 211),rgb(255, 255, 255),rgb(47, 143, 34),rgb(39, 112, 26),rgb(38, 86, 20),rgb(44, 63, 15),rgb(56, 44, 10),rgb(74, 28, 6),rgb(99, 15, 3),rgb(130, 7, 1),rgb(168, 1, 0),rgb(212, 0, 0),rgb(170, 0, 0),rgb(149, 15, 32),rgb(131, 29, 62),rgb(117, 41, 87),rgb(105, 52, 109),rgb(95, 62, 128),rgb(89, 70, 143),rgb(85, 76, 154),rgb(84, 82, 161),rgb(86, 86, 166),rgb(79, 77, 159),rgb(83, 82, 157),rgb(91, 90, 152),rgb(103, 102, 145),rgb(119, 118, 136),rgb(139, 137, 125),rgb(163, 160, 111),rgb(191, 187, 95),rgb(223, 218, 77),rgb(217, 210, 77),rgb(217, 210, 76),rgb(218, 211, 78),rgb(218, 211, 80),rgb(219, 211, 82),rgb(220, 211, 84),rgb(221, 212, 87),rgb(219, 212, 93),rgb(220, 213, 92),rgb(222, 214, 92),rgb(223, 215, 90),rgb(223, 216, 88),rgb(222, 216, 85),rgb(221, 216, 81),rgb(220, 215, 77),rgb(217, 215, 72),rgb(215, 214, 67),rgb(93, 183, 210),rgb(87, 182, 208),rgb(83, 181, 207),rgb(80, 180, 206),rgb(78, 179, 206),rgb(76, 178, 205),rgb(76, 177, 205),rgb(76, 176, 205),rgb(77, 175, 205),rgb(80, 174, 206),rgb(80, 175, 206),rgb(80, 174, 205),rgb(80, 173, 206),rgb(80, 176, 206),rgb(80, 179, 206),rgb(85, 179, 206),rgb(93, 180, 206),rgb(102, 182, 207),rgb(114, 184, 207),rgb(128, 187, 206),rgb(144, 190, 206),rgb(161, 194, 205),rgb(181, 198, 205),rgb(204, 204, 204),rgb(255, 252, 252),rgb(226, 212, 204),rgb(200, 177, 163),rgb(179, 148, 127),rgb(160, 122, 97),rgb(145, 102, 73),rgb(134, 86, 54),rgb(125, 75, 41),rgb(121, 69, 34),rgb(120, 68, 33),rgb(160, 90, 44),rgb(148, 92, 56),rgb(138, 96, 68),rgb(130, 99, 79),rgb(125, 103, 89),rgb(121, 107, 98),rgb(120, 112, 107),rgb(120, 117, 114),rgb(123, 122, 121),rgb(128, 128, 128),rgb(153, 153, 153),rgb(168, 165, 146),rgb(181, 176, 140),rgb(193, 185, 134),rgb(203, 193, 128),rgb(212, 198, 121),rgb(218, 202, 114),rgb(223, 204, 107),rgb(226, 204, 101),rgb(228, 203, 94),rgb(220, 197, 106),rgb(221, 198, 108),rgb(222, 200, 111),rgb(222, 202, 115),rgb(223, 203, 118),rgb(223, 205, 123),rgb(223, 207, 127),rgb(222, 209, 132),rgb(221, 211, 138),rgb(221, 214, 144),rgb(211, 197, 95),rgb(211, 197, 94),rgb(211, 198, 95),rgb(211, 199, 95),rgb(211, 200, 95),rgb(211, 201, 95),rgb(211, 141, 95),rgb(209, 137, 90),rgb(208, 134, 86),rgb(207, 131, 81),rgb(206, 128, 77),rgb(204, 125, 72),rgb(203, 122, 68),rgb(202, 119, 63),rgb(201, 116, 59),rgb(200, 113, 55)",
         "populationHistory": {
             "years": [
                 1960,
@@ -4744,6 +4769,7 @@ export default [
             }
         ],
         "cioc": "BHU",
+        "linearGradients": "rgb(255, 213, 32),rgb(254, 178, 35),rgb(252, 161, 51),rgb(245, 154, 74),rgb(232, 152, 96),rgb(211, 149, 113),rgb(179, 138, 118),rgb(135, 114, 105),rgb(75, 70, 67),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -4970,6 +4996,7 @@ export default [
             }
         ],
         "cioc": "BOL",
+        "linearGradients": "rgb(0, 121, 52),rgb(51, 140, 41),rgb(96, 153, 32),rgb(134, 159, 26),rgb(165, 157, 21),rgb(188, 149, 19),rgb(205, 133, 19),rgb(214, 110, 20),rgb(217, 80, 24),rgb(213, 43, 30)",
         "populationHistory": {
             "years": [
                 1960,
@@ -5157,6 +5184,7 @@ export default [
         "flag": "https://restcountries.eu/data/bes.svg",
         "regionalBlocs": [],
         "cioc": null,
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 212, 228),rgb(166, 179, 201),rgb(141, 156, 175),rgb(128, 142, 148),rgb(127, 138, 121),rgb(139, 143, 95),rgb(163, 158, 68),rgb(200, 182, 41),rgb(249, 217, 15),rgb(0, 0, 0),rgb(24, 2, 3),rgb(48, 5, 6),rgb(73, 7, 9),rgb(97, 10, 12),rgb(122, 12, 16),rgb(146, 15, 19),rgb(171, 17, 22),rgb(195, 20, 25),rgb(220, 23, 29)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -5247,6 +5275,7 @@ export default [
             }
         ],
         "cioc": "BIH",
+        "linearGradients": "rgb(0, 35, 149),rgb(53, 70, 120),rgb(100, 103, 102),rgb(141, 134, 94),rgb(175, 161, 96),rgb(204, 185, 108),rgb(226, 207, 129),rgb(242, 226, 161),rgb(251, 242, 203),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -5458,6 +5487,7 @@ export default [
             }
         ],
         "cioc": "BOT",
+        "linearGradients": "rgb(117, 170, 219),rgb(132, 179, 223),rgb(147, 188, 227),rgb(163, 198, 231),rgb(178, 207, 235),rgb(193, 217, 239),rgb(209, 226, 243),rgb(224, 236, 247),rgb(239, 245, 251),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -5657,6 +5687,7 @@ export default [
         "flag": "https://restcountries.eu/data/bvt.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(239, 43, 45),rgb(239, 84, 87),rgb(232, 116, 120),rgb(219, 136, 144),rgb(199, 147, 160),rgb(173, 146, 166),rgb(139, 135, 164),rgb(99, 114, 153),rgb(53, 82, 133),rgb(0, 40, 104)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -5755,6 +5786,7 @@ export default [
             }
         ],
         "cioc": "BRA",
+        "linearGradients": "rgb(255, 255, 255),rgb(187, 227, 194),rgb(149, 208, 144),rgb(132, 195, 105),rgb(127, 184, 77),rgb(126, 171, 61),rgb(122, 154, 57),rgb(105, 128, 65),rgb(67, 91, 85),rgb(0, 39, 118)",
         "populationHistory": {
             "years": [
                 1960,
@@ -5953,6 +5985,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 210, 227),rgb(164, 169, 200),rgb(136, 134, 174),rgb(119, 103, 148),rgb(113, 76, 124),rgb(119, 55, 101),rgb(137, 37, 79),rgb(165, 25, 58),rgb(206, 17, 38),rgb(206, 17, 36),rgb(194, 28, 28),rgb(180, 38, 21),rgb(163, 49, 16),rgb(143, 59, 11),rgb(120, 70, 7),rgb(94, 80, 4),rgb(66, 89, 1),rgb(34, 99, 0),rgb(0, 109, 0),rgb(157, 157, 157),rgb(167, 126, 124),rgb(177, 105, 96),rgb(187, 93, 72),rgb(197, 91, 53),rgb(207, 97, 38),rgb(217, 113, 27),rgb(227, 139, 21),rgb(237, 173, 20),rgb(247, 217, 23),rgb(62, 130, 37),rgb(55, 115, 32),rgb(48, 101, 28),rgb(41, 86, 24),rgb(34, 72, 20),rgb(27, 57, 16),rgb(20, 43, 12),rgb(13, 28, 8),rgb(6, 14, 4),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -6017,6 +6050,7 @@ export default [
         "flag": "https://restcountries.eu/data/umi.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(255, 255, 255),rgb(237, 208, 213),rgb(218, 168, 177),rgb(199, 135, 148),rgb(178, 107, 126),rgb(156, 85, 110),rgb(134, 69, 100),rgb(110, 60, 97),rgb(85, 56, 100),rgb(60, 59, 110)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -6087,6 +6121,7 @@ export default [
         "flag": "https://restcountries.eu/data/vgb.svg",
         "regionalBlocs": [],
         "cioc": "IVB",
+        "linearGradients": "rgb(0, 36, 125),rgb(50, 80, 149),rgb(88, 114, 165),rgb(113, 140, 173),rgb(125, 156, 172),rgb(125, 162, 163),rgb(113, 160, 145),rgb(88, 148, 119),rgb(50, 127, 84),rgb(0, 97, 41),rgb(247, 198, 0),rgb(245, 193, 47),rgb(237, 182, 72),rgb(221, 164, 80),rgb(198, 142, 74),rgb(169, 115, 59),rgb(135, 87, 40),rgb(95, 57, 20),rgb(49, 28, 5),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -6275,6 +6310,7 @@ export default [
         "flag": "https://restcountries.eu/data/vir.svg",
         "regionalBlocs": [],
         "cioc": "ISV",
+        "linearGradients": "rgb(255, 255, 255),rgb(206, 230, 204),rgb(162, 210, 165),rgb(124, 194, 138),rgb(90, 184, 122),rgb(62, 179, 118),rgb(39, 178, 127),rgb(20, 182, 146),rgb(7, 191, 178),rgb(0, 206, 222),rgb(255, 214, 0),rgb(239, 171, 10),rgb(219, 134, 21),rgb(197, 103, 32),rgb(172, 78, 43),rgb(144, 59, 55),rgb(112, 45, 67),rgb(78, 37, 79),rgb(40, 35, 91),rgb(0, 39, 104)",
         "populationHistory": {
             "years": [
                 1960,
@@ -6476,6 +6512,7 @@ export default [
             }
         ],
         "cioc": "BRU",
+        "linearGradients": "rgb(247, 224, 23),rgb(240, 224, 83),rgb(221, 208, 114),rgb(194, 180, 121),rgb(165, 144, 112),rgb(141, 106, 92),rgb(127, 70, 68),rgb(129, 39, 47),rgb(154, 20, 35),rgb(207, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -6676,6 +6713,7 @@ export default [
             }
         ],
         "cioc": "BUL",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 231, 223),rgb(164, 207, 193),rgb(137, 184, 164),rgb(120, 160, 136),rgb(116, 136, 110),rgb(123, 111, 85),rgb(142, 87, 61),rgb(172, 62, 39),rgb(214, 38, 18)",
         "populationHistory": {
             "years": [
                 1960,
@@ -6887,6 +6925,7 @@ export default [
             }
         ],
         "cioc": "BUR",
+        "linearGradients": "rgb(0, 158, 73),rgb(50, 135, 66),rgb(95, 120, 60),rgb(134, 112, 54),rgb(167, 111, 49),rgb(195, 116, 43),rgb(218, 129, 37),rgb(235, 149, 32),rgb(246, 175, 27),rgb(252, 209, 22)",
         "populationHistory": {
             "years": [
                 1960,
@@ -7098,6 +7137,7 @@ export default [
             }
         ],
         "cioc": "BDI",
+        "linearGradients": "rgb(30, 181, 58),rgb(67, 149, 56),rgb(101, 127, 60),rgb(133, 116, 71),rgb(161, 114, 87),rgb(186, 122, 108),rgb(208, 141, 136),rgb(226, 169, 170),rgb(242, 207, 209),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -7300,6 +7340,7 @@ export default [
             }
         ],
         "cioc": "CAM",
+        "linearGradients": "rgb(3, 46, 161),rgb(49, 39, 137),rgb(91, 40, 122),rgb(129, 48, 116),rgb(161, 64, 118),rgb(189, 87, 128),rgb(213, 118, 147),rgb(231, 156, 174),rgb(245, 202, 210),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -7513,6 +7554,7 @@ export default [
             }
         ],
         "cioc": "CMR",
+        "linearGradients": "rgb(0, 122, 94),rgb(43, 102, 82),rgb(83, 90, 71),rgb(119, 85, 61),rgb(151, 87, 52),rgb(179, 97, 44),rgb(203, 114, 37),rgb(223, 138, 31),rgb(239, 170, 26),rgb(252, 209, 22)",
         "populationHistory": {
             "years": [
                 1960,
@@ -7721,6 +7763,7 @@ export default [
             }
         ],
         "cioc": "CAN",
+        "linearGradients": "rgb(255, 0, 0),rgb(255, 28, 28),rgb(255, 56, 56),rgb(255, 85, 85),rgb(255, 113, 113),rgb(255, 141, 141),rgb(255, 170, 170),rgb(255, 198, 198),rgb(255, 226, 226),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -7921,6 +7964,7 @@ export default [
             }
         ],
         "cioc": "CPV",
+        "linearGradients": "rgb(0, 56, 147),rgb(74, 107, 171),rgb(129, 135, 176),rgb(168, 144, 166),rgb(194, 143, 144),rgb(211, 137, 116),rgb(221, 134, 85),rgb(229, 141, 57),rgb(236, 163, 34),rgb(247, 209, 22)",
         "populationHistory": {
             "years": [
                 1960,
@@ -8106,6 +8150,7 @@ export default [
         "flag": "https://restcountries.eu/data/cym.svg",
         "regionalBlocs": [],
         "cioc": "CAY",
+        "linearGradients": "rgb(0, 36, 125),rgb(52, 74, 124),rgb(97, 103, 122),rgb(136, 122, 116),rgb(167, 131, 108),rgb(192, 129, 98),rgb(209, 117, 84),rgb(219, 95, 68),rgb(222, 64, 49),rgb(219, 22, 28),rgb(0, 73, 61),rgb(4, 70, 70),rgb(15, 73, 83),rgb(31, 82, 99),rgb(53, 97, 118),rgb(82, 117, 139),rgb(116, 143, 164),rgb(156, 174, 191),rgb(202, 212, 221),rgb(255, 255, 255),rgb(249, 208, 80),rgb(197, 193, 73),rgb(152, 176, 66),rgb(112, 157, 58),rgb(79, 136, 50),rgb(51, 113, 41),rgb(29, 88, 32),rgb(14, 61, 21),rgb(4, 31, 11),rgb(0, 0, 0),rgb(207, 20, 43),rgb(165, 32, 65),rgb(129, 43, 82),rgb(97, 52, 93),rgb(69, 60, 97),rgb(46, 65, 95),rgb(28, 70, 87),rgb(15, 72, 72),rgb(6, 73, 51),rgb(2, 73, 25)",
         "populationHistory": {
             "years": [
                 1960,
@@ -8319,6 +8364,7 @@ export default [
             }
         ],
         "cioc": "CAF",
+        "linearGradients": "rgb(0, 48, 130),rgb(50, 90, 153),rgb(90, 124, 168),rgb(117, 151, 175),rgb(133, 170, 173),rgb(138, 182, 163),rgb(131, 185, 145),rgb(112, 181, 118),rgb(81, 170, 83),rgb(40, 151, 40),rgb(255, 206, 0),rgb(250, 184, 5),rgb(245, 163, 11),rgb(240, 142, 17),rgb(235, 121, 23),rgb(230, 100, 28),rgb(225, 79, 34),rgb(220, 58, 40),rgb(215, 37, 46),rgb(210, 16, 52)",
         "populationHistory": {
             "years": [
                 1960,
@@ -8533,6 +8579,7 @@ export default [
             }
         ],
         "cioc": "CHA",
+        "linearGradients": "rgb(0, 38, 100),rgb(52, 70, 79),rgb(97, 93, 62),rgb(134, 108, 49),rgb(164, 114, 40),rgb(186, 111, 34),rgb(200, 99, 32),rgb(207, 79, 33),rgb(206, 50, 39),rgb(198, 12, 48)",
         "populationHistory": {
             "years": [
                 1960,
@@ -8749,6 +8796,7 @@ export default [
             }
         ],
         "cioc": "CHI",
+        "linearGradients": "rgb(213, 43, 30),rgb(218, 85, 76),rgb(217, 116, 114),rgb(208, 138, 145),rgb(191, 150, 167),rgb(168, 152, 183),rgb(137, 143, 190),rgb(98, 124, 190),rgb(53, 95, 181),rgb(0, 57, 166)",
         "populationHistory": {
             "years": [
                 1960,
@@ -8956,6 +9004,7 @@ export default [
         "flag": "https://restcountries.eu/data/chn.svg",
         "regionalBlocs": [],
         "cioc": "CHN",
+        "linearGradients": "rgb(255, 222, 0),rgb(251, 201, 1),rgb(247, 181, 3),rgb(244, 161, 5),rgb(240, 141, 7),rgb(236, 121, 8),rgb(233, 101, 10),rgb(229, 81, 12),rgb(225, 61, 14),rgb(222, 41, 16)",
         "populationHistory": {
             "years": [
                 1960,
@@ -9142,6 +9191,7 @@ export default [
         "flag": "https://restcountries.eu/data/cxr.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 33, 173),rgb(16, 66, 141),rgb(43, 96, 117),rgb(78, 124, 102),rgb(117, 150, 97),rgb(157, 173, 104),rgb(195, 195, 121),rgb(226, 216, 152),rgb(247, 235, 196),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -9209,6 +9259,7 @@ export default [
         "flag": "https://restcountries.eu/data/cck.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 128, 0),rgb(51, 145, 0),rgb(94, 156, 0),rgb(127, 160, 0),rgb(151, 156, 0),rgb(165, 145, 0),rgb(170, 128, 0),rgb(165, 103, 0),rgb(151, 71, 0),rgb(128, 32, 0)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -9306,6 +9357,7 @@ export default [
             }
         ],
         "cioc": "COL",
+        "linearGradients": "rgb(252, 209, 22),rgb(201, 176, 46),rgb(162, 146, 66),rgb(134, 119, 79),rgb(118, 95, 86),rgb(113, 74, 88),rgb(119, 55, 84),rgb(137, 39, 74),rgb(165, 27, 59),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -9524,6 +9576,7 @@ export default [
             }
         ],
         "cioc": "COM",
+        "linearGradients": "rgb(255, 198, 30),rgb(254, 207, 74),rgb(252, 208, 108),rgb(249, 203, 130),rgb(245, 190, 142),rgb(239, 170, 143),rgb(233, 142, 133),rgb(225, 108, 112),rgb(216, 66, 80),rgb(206, 17, 38),rgb(58, 117, 196),rgb(58, 119, 179),rgb(58, 122, 163),rgb(59, 125, 147),rgb(59, 128, 131),rgb(59, 130, 115),rgb(60, 133, 99),rgb(60, 136, 83),rgb(60, 139, 67),rgb(61, 142, 51)",
         "populationHistory": {
             "years": [
                 1960,
@@ -9735,6 +9788,7 @@ export default [
             }
         ],
         "cioc": "CGO",
+        "linearGradients": "rgb(0, 149, 67),rgb(52, 162, 67),rgb(97, 168, 67),rgb(136, 168, 66),rgb(167, 162, 63),rgb(191, 150, 59),rgb(209, 131, 54),rgb(219, 105, 47),rgb(223, 74, 39),rgb(220, 36, 31)",
         "populationHistory": {
             "years": [
                 1960,
@@ -9971,6 +10025,7 @@ export default [
             }
         ],
         "cioc": "COD",
+        "linearGradients": "rgb(0, 127, 255),rgb(51, 142, 206),rgb(95, 151, 164),rgb(132, 153, 127),rgb(162, 148, 97),rgb(185, 135, 72),rgb(201, 116, 53),rgb(210, 89, 40),rgb(211, 56, 33),rgb(206, 16, 33)",
         "populationHistory": {
             "years": [
                 1960,
@@ -10162,6 +10217,7 @@ export default [
         "flag": "https://restcountries.eu/data/cok.svg",
         "regionalBlocs": [],
         "cioc": "COK",
+        "linearGradients": "rgb(0, 36, 125),rgb(28, 60, 139),rgb(56, 84, 153),rgb(85, 109, 168),rgb(113, 133, 182),rgb(141, 157, 197),rgb(170, 182, 211),rgb(198, 206, 226),rgb(226, 230, 240),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -10243,6 +10299,7 @@ export default [
             }
         ],
         "cioc": "CRC",
+        "linearGradients": "rgb(0, 43, 127),rgb(52, 84, 151),rgb(98, 114, 166),rgb(136, 134, 174),rgb(166, 142, 172),rgb(189, 139, 162),rgb(204, 125, 144),rgb(212, 100, 117),rgb(213, 64, 81),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -10444,6 +10501,7 @@ export default [
             }
         ],
         "cioc": "CRO",
+        "linearGradients": "rgb(23, 23, 150),rgb(71, 68, 168),rgb(114, 102, 178),rgb(151, 123, 180),rgb(183, 133, 172),rgb(209, 130, 155),rgb(229, 115, 130),rgb(243, 89, 95),rgb(252, 50, 52),rgb(255, 0, 0),rgb(0, 147, 221),rgb(3, 118, 174),rgb(12, 99, 134),rgb(27, 89, 100),rgb(48, 88, 72),rgb(76, 96, 50),rgb(109, 113, 34),rgb(149, 139, 24),rgb(195, 174, 20),rgb(247, 219, 23)",
         "populationHistory": {
             "years": [
                 1960,
@@ -10636,6 +10694,7 @@ export default [
         "flag": "https://restcountries.eu/data/cub.svg",
         "regionalBlocs": [],
         "cioc": "CUB",
+        "linearGradients": "rgb(0, 42, 143),rgb(52, 83, 163),rgb(98, 114, 176),rgb(136, 134, 181),rgb(166, 142, 178),rgb(189, 140, 167),rgb(205, 126, 148),rgb(213, 102, 121),rgb(213, 66, 86),rgb(207, 20, 43)",
         "populationHistory": {
             "years": [
                 1960,
@@ -10838,6 +10897,7 @@ export default [
         "flag": "https://restcountries.eu/data/cuw.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 43, 127),rgb(52, 82, 107),rgb(98, 118, 96),rgb(139, 150, 93),rgb(173, 178, 99),rgb(201, 201, 113),rgb(224, 221, 136),rgb(240, 236, 167),rgb(250, 247, 207),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -11049,6 +11109,7 @@ export default [
             }
         ],
         "cioc": "CYP",
+        "linearGradients": "rgb(255, 255, 255),rgb(217, 218, 208),rgb(187, 188, 167),rgb(166, 162, 129),rgb(153, 142, 96),rgb(148, 126, 68),rgb(152, 116, 44),rgb(164, 111, 25),rgb(183, 112, 10),rgb(212, 118, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -11254,6 +11315,7 @@ export default [
             }
         ],
         "cioc": "CZE",
+        "linearGradients": "rgb(215, 20, 26),rgb(220, 67, 72),rgb(219, 103, 110),rgb(210, 129, 138),rgb(195, 145, 158),rgb(173, 151, 169),rgb(144, 146, 172),rgb(109, 130, 165),rgb(66, 105, 150),rgb(17, 69, 126)",
         "populationHistory": {
             "years": [
                 1960,
@@ -11455,6 +11517,7 @@ export default [
             }
         ],
         "cioc": "DEN",
+        "linearGradients": "rgb(198, 12, 48),rgb(204, 39, 71),rgb(210, 66, 94),rgb(217, 93, 117),rgb(223, 120, 140),rgb(229, 147, 163),rgb(236, 174, 186),rgb(242, 200, 209),rgb(248, 228, 232),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -11679,6 +11742,7 @@ export default [
             }
         ],
         "cioc": "DJI",
+        "linearGradients": "rgb(106, 178, 231),rgb(87, 179, 181),rgb(88, 183, 155),rgb(104, 187, 145),rgb(128, 187, 143),rgb(157, 180, 143),rgb(184, 164, 139),rgb(207, 134, 122),rgb(218, 87, 87),rgb(215, 20, 26)",
         "populationHistory": {
             "years": [
                 1960,
@@ -11867,6 +11931,7 @@ export default [
         "flag": "https://restcountries.eu/data/dma.svg",
         "regionalBlocs": [],
         "cioc": "DMA",
+        "linearGradients": "rgb(0, 107, 63),rgb(52, 128, 57),rgb(99, 149, 58),rgb(140, 168, 66),rgb(174, 186, 80),rgb(203, 203, 102),rgb(225, 218, 130),rgb(241, 231, 164),rgb(251, 244, 206),rgb(255, 255, 255),rgb(0, 0, 0),rgb(61, 9, 12),rgb(105, 20, 21),rgb(134, 32, 28),rgb(151, 44, 37),rgb(159, 56, 50),rgb(160, 67, 70),rgb(156, 78, 100),rgb(152, 88, 142),rgb(148, 97, 201)",
         "populationHistory": {
             "years": [
                 1960,
@@ -12077,6 +12142,7 @@ export default [
             }
         ],
         "cioc": "DOM",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 210, 221),rgb(164, 170, 190),rgb(136, 135, 161),rgb(119, 104, 134),rgb(113, 77, 110),rgb(119, 55, 88),rgb(137, 38, 69),rgb(165, 25, 52),rgb(206, 17, 38),rgb(234, 193, 2),rgb(185, 152, 1),rgb(143, 118, 2),rgb(107, 88, 3),rgb(78, 64, 5),rgb(56, 46, 7),rgb(40, 33, 10),rgb(30, 25, 14),rgb(28, 23, 18),rgb(32, 27, 24),rgb(0, 99, 0),rgb(50, 130, 0),rgb(88, 155, 3),rgb(113, 173, 8),rgb(125, 184, 15),rgb(125, 189, 23),rgb(113, 187, 33),rgb(88, 179, 45),rgb(50, 164, 60),rgb(0, 143, 76),rgb(0, 135, 63),rgb(67, 99, 46),rgb(104, 79, 37),rgb(119, 71, 33),rgb(119, 70, 33),rgb(113, 73, 35),rgb(107, 75, 38),rgb(109, 72, 39),rgb(127, 60, 37),rgb(170, 36, 30)",
         "populationHistory": {
             "years": [
                 1960,
@@ -12284,6 +12350,7 @@ export default [
             }
         ],
         "cioc": "ECU",
+        "linearGradients": "rgb(237, 28, 36),rgb(190, 40, 60),rgb(157, 54, 77),rgb(135, 71, 88),rgb(125, 90, 91),rgb(127, 112, 87),rgb(141, 136, 76),rgb(166, 162, 57),rgb(205, 190, 32),rgb(255, 221, 0),rgb(177, 186, 191),rgb(186, 185, 153),rgb(190, 185, 122),rgb(188, 185, 97),rgb(180, 184, 78),rgb(167, 183, 65),rgb(148, 183, 58),rgb(123, 182, 57),rgb(93, 181, 62),rgb(57, 181, 74),rgb(255, 223, 79),rgb(245, 184, 70),rgb(231, 154, 64),rgb(212, 131, 60),rgb(188, 115, 58),rgb(160, 108, 58),rgb(127, 108, 60),rgb(89, 116, 64),rgb(47, 132, 70),rgb(0, 156, 79),rgb(192, 202, 208),rgb(198, 200, 166),rgb(197, 194, 132),rgb(190, 186, 107),rgb(175, 174, 91),rgb(154, 158, 83),rgb(126, 139, 83),rgb(91, 117, 92),rgb(50, 91, 110),rgb(2, 63, 136),rgb(69, 44, 37),rgb(95, 64, 36),rgb(119, 82, 35),rgb(139, 96, 34),rgb(155, 107, 32),rgb(168, 115, 30),rgb(177, 120, 27),rgb(183, 122, 23),rgb(185, 121, 20),rgb(184, 117, 16),rgb(183, 110, 17),rgb(180, 107, 16),rgb(178, 104, 15),rgb(175, 101, 15),rgb(173, 99, 14),rgb(171, 96, 13),rgb(168, 93, 13),rgb(166, 90, 12),rgb(164, 87, 11),rgb(162, 85, 11),rgb(211, 220, 224),rgb(177, 190, 194),rgb(147, 166, 167),rgb(119, 145, 143),rgb(93, 128, 122),rgb(69, 116, 104),rgb(48, 108, 88),rgb(30, 103, 76),rgb(13, 103, 66),rgb(0, 108, 60),rgb(109, 190, 69),rgb(87, 151, 55),rgb(70, 120, 47),rgb(57, 97, 43),rgb(50, 80, 44),rgb(47, 72, 50),rgb(49, 71, 60),rgb(56, 77, 74),rgb(68, 91, 94),rgb(85, 113, 118),rgb(153, 175, 202),rgb(139, 170, 201),rgb(132, 168, 202),rgb(131, 170, 205),rgb(136, 175, 210),rgb(147, 184, 215),rgb(165, 197, 223),rgb(189, 213, 232),rgb(218, 232, 242),rgb(255, 255, 255),rgb(0, 118, 56),rgb(32, 125, 77),rgb(60, 132, 96),rgb(84, 138, 112),rgb(104, 142, 125),rgb(121, 146, 136),rgb(133, 148, 144),rgb(142, 150, 149),rgb(147, 150, 152),rgb(148, 150, 153),rgb(92, 83, 66),rgb(100, 94, 80),rgb(107, 103, 91),rgb(113, 108, 98),rgb(117, 111, 101),rgb(119, 111, 99),rgb(121, 108, 94),rgb(121, 103, 85),rgb(119, 94, 72),rgb(117, 83, 56),rgb(163, 120, 83),rgb(149, 116, 87),rgb(140, 114, 93),rgb(133, 115, 100),rgb(130, 118, 108),rgb(130, 123, 117),rgb(133, 130, 128),rgb(140, 139, 140),rgb(149, 151, 153),rgb(163, 165, 168),rgb(121, 122, 125),rgb(125, 126, 129),rgb(127, 127, 129),rgb(126, 125, 125),rgb(123, 119, 117),rgb(117, 111, 105),rgb(109, 99, 89),rgb(97, 84, 70),rgb(84, 65, 46),rgb(68, 44, 19),rgb(164, 139, 88),rgb(151, 130, 90),rgb(142, 124, 93),rgb(134, 119, 97),rgb(128, 116, 102),rgb(124, 116, 107),rgb(123, 117, 114),rgb(124, 120, 121),rgb(127, 125, 129),rgb(132, 132, 138),rgb(69, 55, 23),rgb(76, 62, 32),rgb(80, 67, 38),rgb(83, 70, 43),rgb(82, 70, 45),rgb(80, 68, 44),rgb(75, 63, 41),rgb(68, 56, 35),rgb(58, 46, 27),rgb(47, 35, 17),rgb(134, 109, 70),rgb(141, 121, 90),rgb(147, 130, 104),rgb(151, 135, 113),rgb(153, 137, 117),rgb(153, 135, 115),rgb(152, 130, 107),rgb(148, 122, 94),rgb(143, 110, 75),rgb(137, 95, 51),rgb(255, 230, 0),rgb(220, 200, 18),rgb(191, 175, 33),rgb(168, 154, 45),rgb(151, 138, 55),rgb(140, 127, 61),rgb(135, 120, 64),rgb(136, 117, 65),rgb(142, 119, 62),rgb(155, 126, 57),rgb(47, 59, 48),rgb(59, 63, 49),rgb(73, 69, 53),rgb(89, 79, 61),rgb(106, 91, 73),rgb(125, 105, 88),rgb(146, 123, 107),rgb(168, 143, 129),rgb(191, 166, 155),rgb(217, 192, 185),rgb(189, 135, 89),rgb(193, 151, 114),rgb(195, 161, 131),rgb(192, 165, 140),rgb(185, 163, 141),rgb(174, 155, 134),rgb(160, 141, 118),rgb(142, 121, 95),rgb(120, 95, 63),rgb(94, 63, 23),rgb(219, 160, 95),rgb(213, 134, 84),rgb(207, 111, 73),rgb(200, 91, 64),rgb(191, 74, 55),rgb(181, 60, 47),rgb(171, 49, 39),rgb(159, 41, 33),rgb(146, 35, 27),rgb(132, 33, 22),rgb(122, 46, 38),rgb(118, 49, 42),rgb(114, 53, 46),rgb(110, 57, 50),rgb(106, 60, 54),rgb(102, 64, 59),rgb(98, 68, 63),rgb(94, 71, 67),rgb(90, 75, 71),rgb(87, 79, 76)",
         "populationHistory": {
             "years": [
                 1960,
@@ -12497,6 +12564,7 @@ export default [
             }
         ],
         "cioc": "EGY",
+        "linearGradients": "rgb(0, 0, 0),rgb(74, 67, 68),rgb(128, 106, 107),rgb(166, 122, 121),rgb(189, 123, 117),rgb(201, 116, 99),rgb(205, 107, 73),rgb(202, 105, 44),rgb(197, 116, 18),rgb(192, 147, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -12698,6 +12766,7 @@ export default [
             }
         ],
         "cioc": "ESA",
+        "linearGradients": "rgb(15, 71, 175),rgb(62, 106, 188),rgb(97, 131, 194),rgb(120, 144, 191),rgb(130, 147, 179),rgb(128, 139, 160),rgb(115, 121, 132),rgb(88, 91, 96),rgb(50, 51, 52),rgb(0, 0, 0),rgb(230, 0, 0),rgb(187, 19, 7),rgb(149, 34, 16),rgb(116, 46, 29),rgb(86, 53, 44),rgb(60, 57, 61),rgb(39, 56, 82),rgb(22, 52, 105),rgb(8, 44, 130),rgb(0, 32, 159),rgb(1, 19, 34),rgb(9, 27, 37),rgb(30, 45, 38),rgb(57, 68, 38),rgb(84, 93, 39),rgb(105, 116, 44),rgb(113, 135, 56),rgb(102, 145, 75),rgb(67, 143, 104),rgb(0, 126, 147)",
         "populationHistory": {
             "years": [
                 1960,
@@ -12909,6 +12978,7 @@ export default [
             }
         ],
         "cioc": "GEQ",
+        "linearGradients": "rgb(227, 33, 24),rgb(230, 78, 69),rgb(228, 115, 102),rgb(221, 145, 124),rgb(208, 166, 133),rgb(189, 179, 130),rgb(166, 185, 116),rgb(136, 182, 89),rgb(102, 172, 50),rgb(62, 154, 0),rgb(0, 115, 206),rgb(24, 105, 171),rgb(47, 98, 141),rgb(69, 93, 115),rgb(88, 89, 92),rgb(107, 88, 74),rgb(123, 88, 60),rgb(138, 91, 49),rgb(151, 95, 43),rgb(163, 102, 41),rgb(0, 154, 59),rgb(50, 164, 46),rgb(88, 167, 35),rgb(113, 164, 26),rgb(125, 153, 18),rgb(125, 136, 11),rgb(113, 112, 6),rgb(88, 81, 2),rgb(50, 44, 0),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -13129,6 +13199,7 @@ export default [
             }
         ],
         "cioc": "ERI",
+        "linearGradients": "rgb(234, 4, 55),rgb(182, 44, 98),rgb(141, 79, 120),rgb(111, 107, 125),rgb(95, 131, 117),rgb(93, 150, 101),rgb(106, 166, 81),rgb(137, 179, 61),rgb(186, 189, 45),rgb(255, 199, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -13313,6 +13384,7 @@ export default [
             }
         ],
         "cioc": "EST",
+        "linearGradients": "rgb(72, 145, 217),rgb(60, 117, 174),rgb(56, 100, 143),rgb(60, 92, 124),rgb(72, 95, 117),rgb(92, 107, 121),rgb(121, 129, 137),rgb(157, 161, 164),rgb(202, 203, 204),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -13521,6 +13593,7 @@ export default [
             }
         ],
         "cioc": "ETH",
+        "linearGradients": "rgb(218, 18, 26),rgb(219, 75, 22),rgb(205, 114, 23),rgb(178, 136, 28),rgb(144, 145, 39),rgb(107, 142, 55),rgb(71, 131, 76),rgb(41, 114, 103),rgb(20, 93, 135),rgb(15, 71, 175)",
         "populationHistory": {
             "years": [
                 1960,
@@ -13723,6 +13796,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(0, 36, 125),rgb(0, 29, 101),rgb(0, 27, 85),rgb(0, 28, 77),rgb(0, 33, 77),rgb(0, 42, 85),rgb(0, 54, 100),rgb(0, 70, 124),rgb(0, 90, 156),rgb(0, 114, 196),rgb(188, 188, 188),rgb(201, 201, 201),rgb(211, 211, 211),rgb(218, 218, 218),rgb(222, 222, 221),rgb(223, 223, 222),rgb(220, 220, 220),rgb(215, 215, 214),rgb(207, 207, 205),rgb(196, 196, 194),rgb(0, 81, 33),rgb(53, 116, 77),rgb(99, 144, 112),rgb(137, 164, 137),rgb(169, 178, 153),rgb(194, 184, 159),rgb(211, 184, 156),rgb(221, 176, 143),rgb(224, 161, 121),rgb(221, 139, 89),rgb(254, 207, 62),rgb(234, 193, 91),rgb(224, 171, 102),rgb(219, 143, 99),rgb(219, 112, 87),rgb(219, 81, 69),rgb(219, 53, 49),rgb(215, 31, 32),rgb(206, 17, 22),rgb(190, 16, 23)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -13802,6 +13876,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 221, 239),rgb(165, 191, 222),rgb(139, 162, 203),rgb(125, 136, 183),rgb(123, 112, 161),rgb(133, 91, 137),rgb(155, 72, 112),rgb(190, 55, 85),rgb(237, 41, 57)",
         "populationHistory": {
             "years": [
                 1960,
@@ -14009,6 +14084,7 @@ export default [
         "flag": "https://restcountries.eu/data/fji.svg",
         "regionalBlocs": [],
         "cioc": "FIJ",
+        "linearGradients": "rgb(104, 191, 229),rgb(85, 161, 204),rgb(75, 141, 187),rgb(74, 131, 176),rgb(82, 129, 172),rgb(99, 136, 175),rgb(124, 152, 185),rgb(159, 177, 201),rgb(202, 211, 224),rgb(255, 255, 255),rgb(206, 17, 38),rgb(207, 19, 40),rgb(209, 26, 40),rgb(213, 37, 40),rgb(217, 54, 37),rgb(223, 75, 33),rgb(229, 101, 27),rgb(237, 132, 19),rgb(245, 168, 10),rgb(255, 209, 0),rgb(249, 157, 28),rgb(198, 157, 38),rgb(158, 156, 47),rgb(127, 151, 54),rgb(106, 145, 59),rgb(95, 136, 62),rgb(94, 124, 63),rgb(103, 110, 62),rgb(121, 93, 59),rgb(150, 75, 54),rgb(255, 242, 0),rgb(226, 215, 0),rgb(198, 188, 0),rgb(170, 161, 0),rgb(141, 134, 0),rgb(113, 107, 0),rgb(85, 80, 0),rgb(56, 53, 0),rgb(28, 26, 0),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -14215,6 +14291,7 @@ export default [
             }
         ],
         "cioc": "FIN",
+        "linearGradients": "rgb(255, 255, 255),rgb(226, 232, 240),rgb(198, 210, 226),rgb(170, 187, 212),rgb(141, 165, 198),rgb(113, 142, 184),rgb(85, 120, 170),rgb(56, 97, 156),rgb(28, 75, 142),rgb(0, 53, 128)",
         "populationHistory": {
             "years": [
                 1960,
@@ -14429,6 +14506,7 @@ export default [
             }
         ],
         "cioc": "FRA",
+        "linearGradients": "rgb(237, 41, 57),rgb(237, 83, 97),rgb(231, 114, 129),rgb(218, 135, 155),rgb(199, 145, 172),rgb(172, 144, 183),rgb(139, 133, 185),rgb(99, 111, 181),rgb(53, 78, 168),rgb(0, 35, 149)",
         "populationHistory": {
             "years": [
                 1960,
@@ -14641,6 +14719,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(7, 137, 48),rgb(57, 152, 40),rgb(102, 160, 33),rgb(139, 161, 28),rgb(169, 154, 24),rgb(193, 141, 21),rgb(209, 121, 20),rgb(219, 94, 21),rgb(222, 59, 22),rgb(218, 18, 26)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -14711,6 +14790,7 @@ export default [
         "flag": "https://restcountries.eu/data/pyf.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(206, 17, 38),rgb(216, 65, 80),rgb(225, 106, 111),rgb(233, 138, 132),rgb(239, 161, 140),rgb(245, 177, 138),rgb(249, 184, 124),rgb(252, 183, 99),rgb(254, 173, 63),rgb(255, 156, 16),rgb(8, 61, 156),rgb(18, 55, 140),rgb(28, 49, 124),rgb(38, 43, 109),rgb(48, 37, 93),rgb(58, 31, 78),rgb(68, 25, 62),rgb(78, 19, 47),rgb(88, 13, 31),rgb(99, 8, 16)",
         "populationHistory": {
             "years": [
                 1960,
@@ -14909,6 +14989,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 208, 231),rgb(165, 168, 208),rgb(139, 133, 185),rgb(125, 104, 163),rgb(123, 80, 141),rgb(133, 62, 119),rgb(155, 49, 98),rgb(190, 42, 77),rgb(237, 41, 57)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -14993,6 +15074,7 @@ export default [
             }
         ],
         "cioc": "GAB",
+        "linearGradients": "rgb(58, 117, 196),rgb(95, 135, 160),rgb(122, 150, 130),rgb(137, 162, 107),rgb(142, 170, 90),rgb(135, 175, 79),rgb(118, 176, 74),rgb(89, 173, 75),rgb(50, 167, 82),rgb(0, 158, 96)",
         "populationHistory": {
             "years": [
                 1960,
@@ -15194,6 +15276,7 @@ export default [
             }
         ],
         "cioc": "GAM",
+        "linearGradients": "rgb(58, 119, 40),rgb(50, 99, 59),rgb(49, 82, 74),rgb(54, 67, 84),rgb(64, 53, 88),rgb(80, 42, 88),rgb(103, 33, 83),rgb(131, 25, 73),rgb(165, 20, 58),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -15385,6 +15468,7 @@ export default [
         "flag": "https://restcountries.eu/data/geo.svg",
         "regionalBlocs": [],
         "cioc": "GEO",
+        "linearGradients": "rgb(255, 255, 255),rgb(252, 228, 231),rgb(249, 202, 208),rgb(247, 175, 185),rgb(244, 149, 161),rgb(242, 122, 138),rgb(239, 96, 115),rgb(237, 69, 91),rgb(234, 43, 68),rgb(232, 17, 45)",
         "populationHistory": {
             "years": [
                 1960,
@@ -15589,6 +15673,7 @@ export default [
             }
         ],
         "cioc": "GER",
+        "linearGradients": "rgb(0, 0, 0),rgb(46, 2, 0),rgb(88, 10, 0),rgb(126, 22, 0),rgb(159, 40, 0),rgb(187, 63, 0),rgb(211, 91, 0),rgb(230, 124, 0),rgb(245, 162, 0),rgb(255, 206, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -15791,6 +15876,7 @@ export default [
             }
         ],
         "cioc": "GHA",
+        "linearGradients": "rgb(0, 107, 63),rgb(73, 130, 51),rgb(125, 136, 42),rgb(157, 128, 36),rgb(171, 109, 32),rgb(167, 85, 28),rgb(147, 57, 24),rgb(112, 32, 18),rgb(62, 11, 10),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -15985,6 +16071,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(218, 0, 12),rgb(220, 67, 75),rgb(208, 105, 108),rgb(187, 121, 117),rgb(164, 123, 108),rgb(145, 120, 87),rgb(138, 120, 61),rgb(148, 131, 36),rgb(182, 160, 18),rgb(248, 216, 14)",
         "populationHistory": {
             "years": [
                 1960,
@@ -16185,6 +16272,7 @@ export default [
             }
         ],
         "cioc": "GRE",
+        "linearGradients": "rgb(13, 94, 175),rgb(17, 107, 172),rgb(21, 120, 170),rgb(26, 133, 167),rgb(30, 146, 165),rgb(34, 159, 162),rgb(39, 172, 160),rgb(43, 185, 157),rgb(47, 198, 155),rgb(52, 211, 153)",
         "populationHistory": {
             "years": [
                 1960,
@@ -16374,6 +16462,7 @@ export default [
         "flag": "https://restcountries.eu/data/grl.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(255, 255, 255),rgb(249, 228, 232),rgb(244, 201, 209),rgb(239, 174, 187),rgb(234, 147, 164),rgb(228, 120, 141),rgb(223, 93, 119),rgb(218, 66, 96),rgb(213, 39, 73),rgb(208, 12, 51)",
         "populationHistory": {
             "years": [
                 1960,
@@ -16570,6 +16659,7 @@ export default [
             }
         ],
         "cioc": "GRN",
+        "linearGradients": "rgb(252, 209, 22),rgb(239, 170, 26),rgb(223, 138, 31),rgb(203, 114, 37),rgb(179, 97, 44),rgb(151, 87, 52),rgb(119, 85, 61),rgb(83, 89, 71),rgb(43, 102, 82),rgb(0, 122, 94)",
         "populationHistory": {
             "years": [
                 1960,
@@ -16756,6 +16846,7 @@ export default [
         "flag": "https://restcountries.eu/data/glp.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 36, 136),rgb(0, 53, 107),rgb(0, 66, 82),rgb(0, 72, 60),rgb(0, 74, 41),rgb(0, 70, 26),rgb(0, 60, 15),rgb(0, 46, 6),rgb(0, 25, 1),rgb(0, 0, 0),rgb(252, 221, 9),rgb(252, 220, 8),rgb(252, 219, 7),rgb(253, 219, 6),rgb(253, 218, 5),rgb(253, 217, 4),rgb(254, 217, 3),rgb(254, 216, 2),rgb(254, 215, 1),rgb(255, 215, 0)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -16834,6 +16925,7 @@ export default [
         "flag": "https://restcountries.eu/data/gum.svg",
         "regionalBlocs": [],
         "cioc": "GUM",
+        "linearGradients": "rgb(198, 33, 57),rgb(157, 36, 72),rgb(124, 42, 88),rgb(99, 52, 106),rgb(81, 65, 124),rgb(70, 80, 144),rgb(67, 99, 165),rgb(71, 121, 187),rgb(83, 146, 210),rgb(102, 175, 235),rgb(0, 123, 222),rgb(33, 126, 185),rgb(66, 131, 151),rgb(97, 140, 120),rgb(127, 150, 92),rgb(155, 163, 68),rgb(182, 179, 46),rgb(208, 197, 27),rgb(232, 218, 12),rgb(255, 241, 0),rgb(0, 146, 112),rgb(32, 121, 79),rgb(52, 100, 55),rgb(64, 84, 42),rgb(73, 77, 41),rgb(84, 80, 53),rgb(102, 96, 79),rgb(134, 129, 121),rgb(183, 181, 179),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -17035,6 +17127,7 @@ export default [
             }
         ],
         "cioc": "GUA",
+        "linearGradients": "rgb(73, 151, 208),rgb(108, 170, 215),rgb(135, 184, 215),rgb(152, 191, 209),rgb(161, 192, 197),rgb(160, 186, 178),rgb(149, 174, 152),rgb(130, 155, 120),rgb(101, 130, 82),rgb(64, 99, 37),rgb(103, 146, 61),rgb(119, 123, 62),rgb(133, 106, 66),rgb(144, 95, 72),rgb(151, 89, 80),rgb(155, 90, 91),rgb(156, 96, 104),rgb(154, 108, 119),rgb(148, 125, 137),rgb(140, 149, 157),rgb(72, 86, 84),rgb(80, 79, 74),rgb(89, 77, 70),rgb(99, 79, 71),rgb(110, 86, 77),rgb(122, 96, 88),rgb(135, 111, 105),rgb(148, 130, 127),rgb(162, 154, 153),rgb(178, 182, 186),rgb(250, 184, 28),rgb(248, 194, 55),rgb(246, 200, 76),rgb(241, 202, 89),rgb(234, 200, 94),rgb(226, 193, 92),rgb(216, 183, 82),rgb(204, 168, 65),rgb(191, 149, 41),rgb(176, 126, 9),rgb(68, 129, 39),rgb(101, 141, 31),rgb(129, 151, 24),rgb(152, 157, 19),rgb(168, 160, 14),rgb(178, 161, 10),rgb(182, 158, 8),rgb(181, 152, 6),rgb(173, 143, 6),rgb(160, 131, 7),rgb(0, 0, 0),rgb(5, 9, 3),rgb(11, 18, 6),rgb(17, 28, 10),rgb(23, 37, 13),rgb(28, 46, 17),rgb(34, 56, 20),rgb(40, 65, 24),rgb(46, 74, 27),rgb(52, 84, 31)",
         "populationHistory": {
             "years": [
                 1960,
@@ -17233,6 +17326,7 @@ export default [
         "flag": "https://restcountries.eu/data/ggy.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(249, 221, 22),rgb(227, 219, 36),rgb(205, 218, 51),rgb(183, 217, 65),rgb(161, 216, 80),rgb(139, 215, 94),rgb(117, 214, 109),rgb(95, 213, 123),rgb(73, 212, 138),rgb(52, 211, 153)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -17326,6 +17420,7 @@ export default [
             }
         ],
         "cioc": "GUI",
+        "linearGradients": "rgb(206, 17, 38),rgb(212, 56, 35),rgb(211, 89, 35),rgb(203, 116, 37),rgb(188, 137, 41),rgb(165, 152, 48),rgb(134, 160, 56),rgb(97, 162, 67),rgb(52, 158, 80),rgb(0, 148, 96)",
         "populationHistory": {
             "years": [
                 1960,
@@ -17529,6 +17624,7 @@ export default [
             }
         ],
         "cioc": "GBS",
+        "linearGradients": "rgb(206, 17, 38),rgb(211, 72, 34),rgb(198, 110, 35),rgb(173, 133, 37),rgb(139, 140, 39),rgb(101, 135, 40),rgb(63, 117, 38),rgb(31, 87, 32),rgb(8, 48, 20),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -17745,6 +17841,7 @@ export default [
             }
         ],
         "cioc": "GUY",
+        "linearGradients": "rgb(0, 158, 73),rgb(53, 177, 108),rgb(100, 194, 133),rgb(141, 206, 148),rgb(175, 215, 152),rgb(203, 221, 147),rgb(225, 223, 131),rgb(240, 222, 105),rgb(249, 217, 68),rgb(252, 209, 22),rgb(0, 0, 0),rgb(22, 1, 4),rgb(45, 3, 8),rgb(68, 5, 12),rgb(91, 7, 16),rgb(114, 9, 21),rgb(137, 11, 25),rgb(160, 13, 29),rgb(183, 15, 33),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -17952,6 +18049,7 @@ export default [
             }
         ],
         "cioc": "HAI",
+        "linearGradients": "rgb(210, 16, 52),rgb(168, 21, 72),rgb(138, 29, 87),rgb(120, 41, 96),rgb(112, 56, 99),rgb(115, 74, 95),rgb(130, 96, 86),rgb(156, 121, 71),rgb(193, 149, 50),rgb(241, 181, 23),rgb(255, 255, 255),rgb(201, 223, 207),rgb(155, 193, 168),rgb(114, 166, 138),rgb(81, 140, 117),rgb(53, 118, 104),rgb(33, 97, 100),rgb(18, 79, 104),rgb(11, 63, 118),rgb(10, 50, 140),rgb(210, 0, 20),rgb(181, 9, 15),rgb(154, 17, 12),rgb(128, 22, 8),rgb(104, 24, 6),rgb(80, 24, 3),rgb(58, 22, 2),rgb(38, 17, 0),rgb(18, 9, 0),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -18138,6 +18236,7 @@ export default [
         "flag": "https://restcountries.eu/data/hmd.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 0, 139),rgb(28, 28, 151),rgb(56, 56, 164),rgb(85, 85, 177),rgb(113, 113, 190),rgb(141, 141, 203),rgb(170, 170, 216),rgb(198, 198, 229),rgb(226, 226, 242),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -18225,6 +18324,7 @@ export default [
         "flag": "https://restcountries.eu/data/vat.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(192, 192, 192),rgb(204, 204, 202),rgb(214, 212, 204),rgb(221, 216, 199),rgb(225, 216, 186),rgb(227, 212, 166),rgb(226, 204, 138),rgb(222, 192, 103),rgb(215, 176, 59),rgb(206, 157, 9),rgb(255, 224, 0),rgb(204, 179, 0),rgb(166, 146, 0),rgb(141, 125, 0),rgb(128, 114, 0),rgb(127, 115, 1),rgb(139, 127, 1),rgb(164, 150, 2),rgb(201, 185, 3),rgb(251, 231, 4),rgb(204, 204, 204),rgb(213, 164, 164),rgb(221, 135, 136),rgb(227, 117, 118),rgb(231, 109, 110),rgb(234, 112, 113),rgb(236, 125, 126),rgb(235, 149, 150),rgb(233, 184, 185),rgb(230, 230, 230)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -18307,6 +18407,7 @@ export default [
             }
         ],
         "cioc": "HON",
+        "linearGradients": "rgb(0, 115, 207),rgb(28, 130, 212),rgb(56, 146, 217),rgb(85, 161, 223),rgb(113, 177, 228),rgb(141, 192, 233),rgb(170, 208, 239),rgb(198, 223, 244),rgb(226, 239, 249),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -18501,6 +18602,7 @@ export default [
         "flag": "https://restcountries.eu/data/hkg.svg",
         "regionalBlocs": [],
         "cioc": "HKG",
+        "linearGradients": "rgb(222, 41, 16),rgb(225, 64, 42),rgb(229, 88, 69),rgb(233, 112, 95),rgb(236, 136, 122),rgb(240, 159, 148),rgb(244, 183, 175),rgb(247, 207, 201),rgb(251, 231, 228),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -18701,6 +18803,7 @@ export default [
             }
         ],
         "cioc": "HUN",
+        "linearGradients": "rgb(67, 111, 77),rgb(105, 138, 111),rgb(138, 157, 137),rgb(165, 167, 154),rgb(187, 168, 161),rgb(202, 160, 160),rgb(211, 144, 149),rgb(215, 119, 129),rgb(213, 84, 100),rgb(205, 42, 62)",
         "populationHistory": {
             "years": [
                 1960,
@@ -18896,6 +18999,7 @@ export default [
             }
         ],
         "cioc": "ISL",
+        "linearGradients": "rgb(0, 56, 151),rgb(53, 95, 170),rgb(98, 123, 181),rgb(137, 142, 184),rgb(168, 151, 180),rgb(192, 149, 168),rgb(208, 137, 147),rgb(218, 115, 119),rgb(220, 82, 83),rgb(215, 40, 40)",
         "populationHistory": {
             "years": [
                 1960,
@@ -19106,6 +19210,7 @@ export default [
             }
         ],
         "cioc": "IND",
+        "linearGradients": "rgb(255, 153, 51),rgb(246, 179, 103),rgb(224, 190, 129),rgb(192, 188, 135),rgb(154, 175, 127),rgb(113, 153, 114),rgb(74, 122, 101),rgb(39, 85, 96),rgb(13, 44, 105),rgb(0, 0, 136)",
         "populationHistory": {
             "years": [
                 1960,
@@ -19306,6 +19411,7 @@ export default [
             }
         ],
         "cioc": "INA",
+        "linearGradients": "rgb(206, 17, 38),rgb(211, 43, 62),rgb(216, 69, 86),rgb(222, 96, 110),rgb(227, 122, 134),rgb(233, 149, 158),rgb(238, 175, 182),rgb(244, 202, 206),rgb(249, 228, 230),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -19513,6 +19619,7 @@ export default [
             }
         ],
         "cioc": "CIV",
+        "linearGradients": "rgb(255, 255, 255),rgb(250, 228, 202),rgb(239, 205, 159),rgb(223, 187, 124),rgb(200, 172, 97),rgb(172, 161, 80),rgb(138, 155, 71),rgb(97, 152, 70),rgb(51, 153, 79),rgb(0, 158, 96)",
         "populationHistory": {
             "years": [
                 1960,
@@ -19708,6 +19815,7 @@ export default [
         "flag": "https://restcountries.eu/data/irn.svg",
         "regionalBlocs": [],
         "cioc": "IRI",
+        "linearGradients": "rgb(218, 0, 0),rgb(223, 52, 51),rgb(221, 95, 91),rgb(214, 131, 120),rgb(200, 157, 138),rgb(179, 175, 145),rgb(153, 184, 141),rgb(120, 184, 126),rgb(80, 176, 100),rgb(35, 159, 64)",
         "populationHistory": {
             "years": [
                 1960,
@@ -19919,6 +20027,7 @@ export default [
             }
         ],
         "cioc": "IRQ",
+        "linearGradients": "rgb(0, 0, 0),rgb(73, 67, 68),rgb(126, 106, 107),rgb(159, 121, 124),rgb(172, 121, 122),rgb(168, 111, 110),rgb(148, 100, 91),rgb(112, 93, 73),rgb(62, 98, 61),rgb(0, 122, 61)",
         "populationHistory": {
             "years": [
                 1960,
@@ -20122,6 +20231,7 @@ export default [
             }
         ],
         "cioc": "IRL",
+        "linearGradients": "rgb(0, 155, 72),rgb(53, 174, 107),rgb(100, 187, 131),rgb(141, 195, 145),rgb(176, 197, 148),rgb(204, 193, 140),rgb(226, 184, 121),rgb(242, 169, 91),rgb(251, 147, 51),rgb(255, 121, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -20328,6 +20438,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(207, 20, 43),rgb(215, 62, 41),rgb(223, 101, 46),rgb(231, 135, 57),rgb(237, 165, 74),rgb(242, 191, 98),rgb(247, 213, 127),rgb(250, 231, 163),rgb(253, 245, 206),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -20526,6 +20637,7 @@ export default [
         "flag": "https://restcountries.eu/data/isr.svg",
         "regionalBlocs": [],
         "cioc": "ISR",
+        "linearGradients": "rgb(0, 56, 184),rgb(5, 73, 180),rgb(11, 90, 177),rgb(17, 107, 173),rgb(23, 124, 170),rgb(28, 142, 166),rgb(34, 159, 163),rgb(40, 176, 159),rgb(46, 193, 156),rgb(52, 211, 153)",
         "populationHistory": {
             "years": [
                 1960,
@@ -20727,6 +20839,7 @@ export default [
             }
         ],
         "cioc": "ITA",
+        "linearGradients": "rgb(0, 146, 70),rgb(52, 166, 106),rgb(98, 178, 133),rgb(136, 183, 150),rgb(166, 179, 158),rgb(189, 168, 156),rgb(204, 148, 145),rgb(212, 121, 124),rgb(213, 86, 94),rgb(206, 43, 55)",
         "populationHistory": {
             "years": [
                 1960,
@@ -20923,6 +21036,7 @@ export default [
             }
         ],
         "cioc": "JAM",
+        "linearGradients": "rgb(0, 155, 58),rgb(5, 161, 68),rgb(11, 167, 79),rgb(17, 173, 89),rgb(23, 179, 100),rgb(28, 186, 110),rgb(34, 192, 121),rgb(40, 198, 131),rgb(46, 204, 142),rgb(52, 211, 153)",
         "populationHistory": {
             "years": [
                 1960,
@@ -21110,6 +21224,7 @@ export default [
         "flag": "https://restcountries.eu/data/jpn.svg",
         "regionalBlocs": [],
         "cioc": "JPN",
+        "linearGradients": "rgb(255, 255, 255),rgb(247, 226, 231),rgb(240, 198, 208),rgb(232, 170, 185),rgb(225, 141, 161),rgb(217, 113, 138),rgb(210, 85, 115),rgb(202, 56, 91),rgb(195, 28, 68),rgb(188, 0, 45)",
         "populationHistory": {
             "years": [
                 1960,
@@ -21309,6 +21424,7 @@ export default [
         "flag": "https://restcountries.eu/data/jey.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(255, 255, 255),rgb(250, 207, 210),rgb(246, 171, 170),rgb(244, 145, 135),rgb(242, 130, 105),rgb(241, 126, 79),rgb(242, 134, 58),rgb(243, 152, 41),rgb(245, 181, 29),rgb(249, 221, 22),rgb(255, 0, 22),rgb(226, 9, 40),rgb(198, 18, 58),rgb(170, 27, 76),rgb(141, 36, 94),rgb(113, 45, 113),rgb(85, 54, 131),rgb(56, 62, 149),rgb(28, 72, 167),rgb(0, 81, 186)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -21392,6 +21508,7 @@ export default [
             }
         ],
         "cioc": "JOR",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 225, 214),rgb(164, 197, 177),rgb(136, 169, 144),rgb(119, 142, 116),rgb(113, 115, 92),rgb(119, 90, 72),rgb(137, 65, 56),rgb(165, 40, 45),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -21608,6 +21725,7 @@ export default [
             }
         ],
         "cioc": "KAZ",
+        "linearGradients": "rgb(0, 175, 202),rgb(28, 177, 180),rgb(56, 179, 159),rgb(84, 182, 138),rgb(112, 184, 117),rgb(141, 187, 96),rgb(169, 189, 75),rgb(197, 192, 54),rgb(225, 194, 33),rgb(254, 197, 12)",
         "populationHistory": {
             "years": [
                 1960,
@@ -21820,6 +21938,7 @@ export default [
             }
         ],
         "cioc": "KEN",
+        "linearGradients": "rgb(255, 255, 255),rgb(203, 221, 201),rgb(163, 189, 154),rgb(134, 158, 113),rgb(115, 129, 78),rgb(108, 100, 50),rgb(111, 73, 28),rgb(125, 47, 12),rgb(150, 23, 3),rgb(187, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -22014,6 +22133,7 @@ export default [
         "flag": "https://restcountries.eu/data/kir.svg",
         "regionalBlocs": [],
         "cioc": "KIR",
+        "linearGradients": "rgb(206, 17, 38),rgb(214, 56, 34),rgb(221, 90, 30),rgb(224, 117, 27),rgb(225, 139, 24),rgb(223, 154, 20),rgb(218, 164, 17),rgb(211, 167, 14),rgb(201, 164, 11),rgb(189, 156, 8),rgb(0, 63, 135),rgb(28, 84, 148),rgb(56, 105, 161),rgb(85, 127, 175),rgb(113, 148, 188),rgb(141, 169, 201),rgb(170, 191, 215),rgb(198, 212, 228),rgb(226, 233, 241),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -22215,6 +22335,7 @@ export default [
             }
         ],
         "cioc": "KUW",
+        "linearGradients": "rgb(0, 122, 61),rgb(52, 146, 99),rgb(98, 162, 126),rgb(136, 169, 144),rgb(166, 166, 152),rgb(189, 155, 149),rgb(204, 134, 137),rgb(212, 104, 114),rgb(213, 65, 81),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -22418,6 +22539,7 @@ export default [
             }
         ],
         "cioc": "KGZ",
+        "linearGradients": "rgb(232, 17, 45),rgb(234, 41, 40),rgb(237, 66, 35),rgb(239, 90, 30),rgb(242, 115, 25),rgb(244, 140, 20),rgb(247, 164, 15),rgb(249, 189, 10),rgb(252, 214, 5),rgb(255, 239, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -22620,6 +22742,7 @@ export default [
             }
         ],
         "cioc": "LAO",
+        "linearGradients": "rgb(206, 17, 38),rgb(165, 24, 53),rgb(137, 36, 71),rgb(119, 53, 91),rgb(113, 75, 113),rgb(119, 101, 137),rgb(136, 133, 163),rgb(164, 168, 192),rgb(204, 209, 222),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -22819,6 +22942,7 @@ export default [
             }
         ],
         "cioc": "LAT",
+        "linearGradients": "rgb(158, 48, 57),rgb(168, 71, 79),rgb(179, 94, 101),rgb(190, 117, 123),rgb(201, 140, 145),rgb(211, 163, 167),rgb(222, 186, 189),rgb(233, 209, 211),rgb(244, 232, 233),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -23026,6 +23150,7 @@ export default [
             }
         ],
         "cioc": "LIB",
+        "linearGradients": "rgb(237, 28, 36),rgb(237, 74, 79),rgb(231, 113, 113),rgb(218, 144, 138),rgb(199, 167, 153),rgb(172, 182, 158),rgb(139, 190, 153),rgb(99, 189, 138),rgb(53, 181, 114),rgb(0, 166, 81)",
         "populationHistory": {
             "years": [
                 1960,
@@ -23239,6 +23364,7 @@ export default [
             }
         ],
         "cioc": "LES",
+        "linearGradients": "rgb(0, 149, 67),rgb(67, 172, 119),rgb(102, 176, 152),rgb(113, 164, 168),rgb(104, 141, 168),rgb(83, 110, 155),rgb(56, 76, 129),rgb(29, 43, 94),rgb(8, 17, 50),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -23442,6 +23568,7 @@ export default [
             }
         ],
         "cioc": "LBR",
+        "linearGradients": "rgb(191, 10, 48),rgb(154, 18, 61),rgb(128, 32, 77),rgb(113, 50, 95),rgb(109, 73, 116),rgb(116, 100, 139),rgb(134, 132, 164),rgb(163, 168, 192),rgb(203, 209, 222),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -23659,6 +23786,7 @@ export default [
             }
         ],
         "cioc": "LBA",
+        "linearGradients": "rgb(35, 158, 70),rgb(32, 111, 50),rgb(45, 77, 37),rgb(71, 56, 34),rgb(104, 49, 40),rgb(141, 57, 57),rgb(179, 81, 86),rgb(213, 121, 128),rgb(239, 179, 184),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -23856,6 +23984,7 @@ export default [
             }
         ],
         "cioc": "LIE",
+        "linearGradients": "rgb(0, 43, 127),rgb(62, 41, 101),rgb(112, 51, 82),rgb(148, 68, 68),rgb(168, 85, 57),rgb(172, 98, 48),rgb(159, 101, 40),rgb(126, 89, 30),rgb(73, 57, 17),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -24055,6 +24184,7 @@ export default [
             }
         ],
         "cioc": "LTU",
+        "linearGradients": "rgb(253, 185, 19),rgb(238, 155, 24),rgb(219, 130, 30),rgb(198, 111, 36),rgb(173, 97, 41),rgb(145, 88, 46),rgb(113, 85, 52),rgb(79, 86, 57),rgb(41, 93, 62),rgb(0, 106, 68)",
         "populationHistory": {
             "years": [
                 1960,
@@ -24267,6 +24397,7 @@ export default [
             }
         ],
         "cioc": "LUX",
+        "linearGradients": "rgb(237, 41, 57),rgb(239, 64, 79),rgb(241, 88, 101),rgb(243, 112, 123),rgb(245, 136, 145),rgb(247, 159, 167),rgb(249, 183, 189),rgb(251, 207, 211),rgb(253, 231, 233),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -24464,6 +24595,7 @@ export default [
         "flag": "https://restcountries.eu/data/mac.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 120, 94),rgb(52, 139, 81),rgb(99, 157, 77),rgb(139, 174, 79),rgb(174, 190, 90),rgb(202, 205, 108),rgb(224, 219, 133),rgb(241, 232, 166),rgb(251, 244, 206),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -24664,6 +24796,7 @@ export default [
             }
         ],
         "cioc": "MKD",
+        "linearGradients": "rgb(210, 0, 0),rgb(215, 25, 0),rgb(220, 51, 0),rgb(225, 76, 0),rgb(230, 102, 0),rgb(235, 127, 0),rgb(240, 153, 0),rgb(245, 178, 0),rgb(250, 204, 0),rgb(255, 230, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -24871,6 +25004,7 @@ export default [
             }
         ],
         "cioc": "MAD",
+        "linearGradients": "rgb(255, 255, 255),rgb(251, 215, 212),rgb(241, 181, 174),rgb(225, 154, 142),rgb(203, 133, 114),rgb(174, 119, 92),rgb(140, 111, 76),rgb(99, 109, 64),rgb(52, 114, 58),rgb(0, 126, 58)",
         "populationHistory": {
             "years": [
                 1960,
@@ -25080,6 +25214,7 @@ export default [
             }
         ],
         "cioc": "MAW",
+        "linearGradients": "rgb(206, 17, 38),rgb(188, 32, 39),rgb(171, 48, 41),rgb(154, 64, 43),rgb(137, 79, 44),rgb(119, 95, 46),rgb(102, 111, 48),rgb(85, 126, 49),rgb(68, 142, 51),rgb(51, 158, 53)",
         "populationHistory": {
             "years": [
                 1960,
@@ -25276,6 +25411,7 @@ export default [
             }
         ],
         "cioc": "MAS",
+        "linearGradients": "rgb(204, 0, 1),rgb(210, 67, 71),rgb(201, 105, 115),rgb(183, 120, 136),rgb(162, 122, 138),rgb(145, 118, 126),rgb(140, 117, 102),rgb(152, 125, 70),rgb(188, 151, 35),rgb(255, 204, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -25471,6 +25607,7 @@ export default [
             }
         ],
         "cioc": "MDV",
+        "linearGradients": "rgb(210, 16, 52),rgb(186, 28, 52),rgb(163, 40, 53),rgb(140, 52, 54),rgb(116, 64, 54),rgb(93, 77, 55),rgb(70, 89, 56),rgb(46, 101, 56),rgb(23, 113, 57),rgb(0, 126, 58)",
         "populationHistory": {
             "years": [
                 1960,
@@ -25679,6 +25816,7 @@ export default [
             }
         ],
         "cioc": "MLI",
+        "linearGradients": "rgb(20, 181, 58),rgb(68, 184, 50),rgb(109, 182, 44),rgb(143, 175, 39),rgb(171, 162, 36),rgb(191, 144, 34),rgb(205, 120, 33),rgb(212, 91, 33),rgb(212, 56, 35),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -25879,6 +26017,7 @@ export default [
             }
         ],
         "cioc": "MLT",
+        "linearGradients": "rgb(207, 20, 43),rgb(216, 66, 84),rgb(224, 100, 116),rgb(230, 123, 137),rgb(235, 134, 148),rgb(237, 133, 148),rgb(238, 121, 138),rgb(237, 97, 118),rgb(234, 60, 87),rgb(230, 13, 46),rgb(150, 135, 125),rgb(165, 155, 148),rgb(176, 169, 165),rgb(181, 176, 173),rgb(178, 175, 173),rgb(165, 164, 163),rgb(143, 142, 142),rgb(109, 108, 108),rgb(61, 61, 61),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -26072,6 +26211,7 @@ export default [
         "flag": "https://restcountries.eu/data/mhl.svg",
         "regionalBlocs": [],
         "cioc": "MHL",
+        "linearGradients": "rgb(0, 56, 147),rgb(53, 96, 166),rgb(99, 127, 177),rgb(137, 151, 178),rgb(169, 166, 171),rgb(194, 173, 154),rgb(211, 171, 129),rgb(221, 161, 95),rgb(224, 143, 52),rgb(221, 117, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -26257,6 +26397,7 @@ export default [
         "flag": "https://restcountries.eu/data/mtq.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(33, 66, 142),rgb(57, 87, 154),rgb(82, 108, 167),rgb(107, 129, 179),rgb(131, 150, 192),rgb(156, 171, 204),rgb(181, 192, 217),rgb(205, 213, 229),rgb(230, 234, 242),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -26352,6 +26493,7 @@ export default [
             }
         ],
         "cioc": "MTN",
+        "linearGradients": "rgb(0, 98, 51),rgb(28, 108, 45),rgb(56, 119, 39),rgb(85, 130, 34),rgb(113, 141, 28),rgb(141, 152, 22),rgb(170, 163, 17),rgb(198, 174, 11),rgb(226, 185, 5),rgb(255, 196, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -26552,6 +26694,7 @@ export default [
             }
         ],
         "cioc": "MRI",
+        "linearGradients": "rgb(234, 40, 57),rgb(179, 43, 68),rgb(149, 58, 71),rgb(137, 79, 68),rgb(134, 104, 61),rgb(134, 129, 54),rgb(127, 152, 50),rgb(108, 167, 51),rgb(68, 173, 60),rgb(0, 165, 81)",
         "populationHistory": {
             "years": [
                 1960,
@@ -26752,6 +26895,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(255, 255, 255),rgb(246, 213, 207),rgb(238, 181, 171),rgb(232, 158, 146),rgb(227, 145, 131),rgb(223, 141, 128),rgb(221, 147, 135),rgb(220, 163, 153),rgb(221, 188, 182),rgb(223, 223, 223),rgb(0, 0, 0),rgb(7, 7, 29),rgb(19, 18, 52),rgb(36, 33, 69),rgb(57, 53, 78),rgb(83, 76, 80),rgb(113, 104, 76),rgb(148, 135, 64),rgb(188, 171, 46),rgb(233, 211, 21)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -26844,6 +26988,7 @@ export default [
             }
         ],
         "cioc": "MEX",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 222, 215),rgb(164, 191, 180),rgb(136, 161, 149),rgb(119, 133, 121),rgb(113, 106, 97),rgb(119, 82, 76),rgb(137, 58, 60),rgb(165, 37, 47),rgb(206, 17, 38),rgb(168, 172, 113),rgb(181, 170, 96),rgb(190, 167, 81),rgb(195, 163, 69),rgb(194, 158, 59),rgb(189, 151, 52),rgb(179, 144, 47),rgb(164, 135, 44),rgb(144, 125, 44),rgb(120, 115, 46),rgb(198, 199, 166),rgb(165, 166, 141),rgb(141, 142, 119),rgb(128, 126, 101),rgb(123, 118, 86),rgb(129, 118, 74),rgb(144, 127, 66),rgb(169, 143, 60),rgb(203, 167, 58),rgb(248, 200, 60),rgb(151, 124, 46),rgb(155, 121, 44),rgb(158, 119, 44),rgb(159, 116, 43),rgb(158, 114, 42),rgb(156, 113, 42),rgb(151, 111, 42),rgb(145, 110, 41),rgb(138, 108, 41),rgb(129, 108, 42),rgb(252, 202, 61),rgb(221, 178, 55),rgb(193, 156, 50),rgb(168, 137, 45),rgb(145, 120, 41),rgb(124, 104, 37),rgb(105, 91, 33),rgb(89, 80, 29),rgb(75, 71, 26),rgb(64, 65, 24),rgb(252, 202, 62),rgb(234, 189, 59),rgb(218, 178, 59),rgb(204, 169, 60),rgb(192, 163, 63),rgb(181, 158, 68),rgb(172, 156, 74),rgb(165, 155, 82),rgb(159, 157, 92),rgb(156, 161, 104),rgb(113, 119, 50),rgb(92, 114, 54),rgb(78, 109, 57),rgb(73, 102, 58),rgb(75, 94, 59),rgb(86, 84, 58),rgb(104, 73, 56),rgb(129, 61, 52),rgb(163, 47, 48),rgb(205, 32, 42),rgb(48, 194, 220),rgb(42, 177, 207),rgb(44, 165, 194),rgb(52, 155, 181),rgb(67, 149, 166),rgb(90, 147, 150),rgb(119, 147, 134),rgb(155, 151, 117),rgb(198, 159, 99),rgb(249, 170, 81),rgb(149, 50, 32),rgb(126, 47, 33),rgb(109, 50, 39),rgb(97, 57, 49),rgb(90, 68, 63),rgb(89, 83, 81),rgb(94, 103, 102),rgb(104, 128, 128),rgb(119, 156, 157),rgb(140, 190, 191),rgb(4, 83, 78),rgb(8, 92, 90),rgb(18, 100, 100),rgb(33, 105, 108),rgb(54, 107, 113),rgb(81, 108, 117),rgb(112, 106, 119),rgb(150, 102, 118),rgb(192, 95, 116),rgb(241, 87, 112),rgb(233, 39, 54),rgb(234, 76, 43),rgb(233, 105, 35),rgb(229, 125, 29),rgb(222, 137, 24),rgb(212, 141, 22),rgb(199, 136, 22),rgb(184, 123, 23),rgb(165, 101, 26),rgb(144, 71, 32),rgb(171, 109, 41),rgb(152, 96, 37),rgb(140, 88, 37),rgb(133, 85, 39),rgb(132, 86, 43),rgb(136, 93, 50),rgb(146, 104, 59),rgb(162, 119, 71),rgb(183, 140, 86),rgb(210, 165, 103),rgb(143, 70, 32),rgb(119, 62, 32),rgb(99, 55, 32),rgb(81, 49, 32),rgb(66, 44, 32),rgb(53, 40, 32),rgb(44, 37, 32),rgb(37, 35, 32),rgb(33, 34, 32),rgb(32, 34, 32),rgb(75, 65, 57),rgb(86, 65, 51),rgb(98, 66, 46),rgb(109, 69, 42),rgb(121, 73, 40),rgb(132, 79, 38),rgb(143, 85, 37),rgb(154, 93, 37),rgb(165, 103, 38),rgb(176, 114, 41),rgb(92, 58, 29),rgb(100, 59, 29),rgb(106, 60, 29),rgb(108, 59, 29),rgb(106, 58, 28),rgb(101, 55, 28),rgb(93, 52, 27),rgb(82, 47, 26),rgb(67, 41, 24),rgb(49, 35, 23),rgb(30, 33, 33),rgb(42, 37, 31),rgb(51, 40, 29),rgb(56, 42, 27),rgb(59, 42, 26),rgb(58, 41, 25),rgb(54, 38, 24),rgb(47, 34, 23),rgb(36, 29, 23),rgb(23, 23, 23),rgb(69, 57, 45),rgb(99, 80, 57),rgb(124, 98, 66),rgb(143, 111, 71),rgb(156, 118, 73),rgb(163, 121, 72),rgb(165, 118, 67),rgb(160, 110, 58),rgb(150, 97, 47),rgb(135, 79, 32),rgb(178, 113, 41),rgb(164, 103, 37),rgb(156, 95, 34),rgb(153, 90, 31),rgb(155, 87, 28),rgb(162, 87, 26),rgb(174, 89, 25),rgb(191, 93, 23),rgb(213, 100, 22),rgb(241, 110, 22),rgb(213, 211, 202),rgb(191, 181, 165),rgb(175, 156, 133),rgb(163, 136, 105),rgb(156, 122, 83),rgb(154, 113, 66),rgb(156, 109, 53),rgb(163, 110, 45),rgb(174, 116, 42),rgb(191, 128, 45),rgb(249, 200, 58),rgb(249, 208, 90),rgb(250, 216, 118),rgb(250, 222, 141),rgb(251, 227, 159),rgb(251, 231, 172),rgb(252, 234, 180),rgb(252, 235, 183),rgb(252, 235, 181),rgb(253, 234, 175),rgb(81, 54, 37),rgb(87, 57, 36),rgb(93, 60, 36),rgb(100, 63, 36),rgb(106, 66, 35),rgb(113, 69, 35),rgb(119, 72, 35),rgb(126, 75, 34),rgb(132, 78, 34),rgb(139, 81, 34)",
         "populationHistory": {
             "years": [
                 1960,
@@ -27036,6 +27181,7 @@ export default [
         "flag": "https://restcountries.eu/data/fsm.svg",
         "regionalBlocs": [],
         "cioc": "FSM",
+        "linearGradients": "rgb(117, 178, 221),rgb(132, 186, 224),rgb(147, 195, 228),rgb(163, 203, 232),rgb(178, 212, 236),rgb(193, 220, 239),rgb(209, 229, 243),rgb(224, 237, 247),rgb(239, 246, 251),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -27233,6 +27379,7 @@ export default [
             }
         ],
         "cioc": "MDA",
+        "linearGradients": "rgb(204, 9, 47),rgb(211, 49, 39),rgb(211, 81, 37),rgb(204, 105, 40),rgb(188, 120, 48),rgb(166, 127, 62),rgb(136, 125, 82),rgb(98, 115, 107),rgb(52, 96, 138),rgb(0, 70, 174),rgb(0, 0, 0),rgb(50, 43, 1),rgb(93, 79, 4),rgb(128, 108, 10),rgb(155, 129, 17),rgb(175, 143, 27),rgb(187, 150, 38),rgb(191, 150, 52),rgb(187, 142, 67),rgb(176, 127, 85),rgb(209, 4, 41),rgb(167, 27, 51),rgb(130, 46, 63),rgb(98, 62, 76),rgb(71, 73, 91),rgb(49, 80, 107),rgb(32, 84, 125),rgb(20, 83, 144),rgb(13, 78, 164),rgb(11, 69, 187)",
         "populationHistory": {
             "years": [
                 1960,
@@ -27422,6 +27569,7 @@ export default [
         "flag": "https://restcountries.eu/data/mco.svg",
         "regionalBlocs": [],
         "cioc": "MON",
+        "linearGradients": "rgb(206, 17, 38),rgb(188, 38, 50),rgb(171, 60, 63),rgb(154, 81, 76),rgb(137, 103, 89),rgb(120, 124, 101),rgb(103, 146, 114),rgb(86, 167, 127),rgb(69, 189, 140),rgb(52, 211, 153)",
         "populationHistory": {
             "years": [
                 1960,
@@ -27611,6 +27759,7 @@ export default [
         "flag": "https://restcountries.eu/data/mng.svg",
         "regionalBlocs": [],
         "cioc": "MGL",
+        "linearGradients": "rgb(249, 207, 2),rgb(235, 172, 12),rgb(218, 142, 24),rgb(197, 118, 38),rgb(173, 99, 53),rgb(146, 85, 70),rgb(115, 76, 88),rgb(80, 72, 107),rgb(42, 74, 128),rgb(1, 81, 151)",
         "populationHistory": {
             "years": [
                 1960,
@@ -27828,6 +27977,7 @@ export default [
             }
         ],
         "cioc": "MNE",
+        "linearGradients": "rgb(211, 174, 59),rgb(207, 139, 48),rgb(204, 111, 40),rgb(201, 90, 34),rgb(198, 76, 30),rgb(195, 68, 28),rgb(192, 68, 28),rgb(190, 74, 30),rgb(187, 87, 34),rgb(185, 107, 41),rgb(212, 175, 58),rgb(160, 152, 81),rgb(126, 136, 93),rgb(107, 125, 96),rgb(101, 117, 93),rgb(106, 109, 84),rgb(121, 99, 73),rgb(142, 84, 60),rgb(168, 63, 47),rgb(197, 33, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -28024,6 +28174,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(0, 36, 125),rgb(50, 80, 151),rgb(88, 117, 173),rgb(113, 147, 189),rgb(125, 169, 201),rgb(125, 183, 208),rgb(113, 189, 211),rgb(88, 187, 208),rgb(50, 178, 201),rgb(0, 162, 189),rgb(165, 61, 8),rgb(133, 50, 6),rgb(112, 44, 5),rgb(101, 44, 4),rgb(101, 49, 4),rgb(111, 59, 4),rgb(131, 75, 4),rgb(162, 96, 5),rgb(203, 122, 6),rgb(255, 154, 8),rgb(0, 128, 33),rgb(52, 145, 66),rgb(94, 155, 91),rgb(128, 158, 106),rgb(152, 153, 112),rgb(167, 141, 108),rgb(173, 120, 95),rgb(169, 93, 73),rgb(157, 57, 41),rgb(135, 15, 0)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -28118,6 +28269,7 @@ export default [
             }
         ],
         "cioc": "MAR",
+        "linearGradients": "rgb(193, 39, 45),rgb(177, 58, 57),rgb(161, 77, 69),rgb(146, 96, 81),rgb(130, 115, 93),rgb(114, 134, 105),rgb(99, 153, 117),rgb(83, 172, 129),rgb(67, 191, 141),rgb(52, 211, 153)",
         "populationHistory": {
             "years": [
                 1960,
@@ -28325,6 +28477,7 @@ export default [
             }
         ],
         "cioc": "MOZ",
+        "linearGradients": "rgb(0, 0, 0),rgb(50, 51, 51),rgb(88, 93, 93),rgb(113, 125, 124),rgb(125, 148, 146),rgb(125, 160, 158),rgb(113, 163, 159),rgb(88, 156, 151),rgb(50, 139, 132),rgb(0, 113, 104),rgb(252, 225, 0),rgb(247, 201, 5),rgb(242, 178, 11),rgb(238, 155, 17),rgb(233, 132, 23),rgb(228, 108, 28),rgb(224, 85, 34),rgb(219, 62, 40),rgb(214, 39, 46),rgb(210, 16, 52)",
         "populationHistory": {
             "years": [
                 1960,
@@ -28526,6 +28679,7 @@ export default [
             }
         ],
         "cioc": "MYA",
+        "linearGradients": "rgb(254, 203, 0),rgb(242, 159, 17),rgb(222, 134, 31),rgb(200, 126, 46),rgb(179, 132, 62),rgb(164, 147, 83),rgb(160, 171, 110),rgb(170, 198, 147),rgb(200, 227, 194),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -28742,6 +28896,7 @@ export default [
             }
         ],
         "cioc": "NAM",
+        "linearGradients": "rgb(0, 53, 128),rgb(3, 74, 117),rgb(12, 96, 113),rgb(28, 118, 115),rgb(50, 140, 122),rgb(78, 162, 137),rgb(113, 185, 157),rgb(154, 208, 183),rgb(201, 231, 216),rgb(255, 255, 255),rgb(210, 16, 52),rgb(215, 37, 46),rgb(220, 58, 40),rgb(225, 79, 34),rgb(230, 100, 28),rgb(235, 121, 23),rgb(240, 142, 17),rgb(245, 163, 11),rgb(250, 184, 5),rgb(255, 206, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -28942,6 +29097,7 @@ export default [
         "flag": "https://restcountries.eu/data/nru.svg",
         "regionalBlocs": [],
         "cioc": "NRU",
+        "linearGradients": "rgb(0, 43, 127),rgb(53, 76, 109),rgb(100, 107, 99),rgb(141, 135, 98),rgb(176, 161, 104),rgb(204, 184, 118),rgb(226, 206, 140),rgb(242, 224, 170),rgb(251, 241, 208),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -29139,6 +29295,7 @@ export default [
             }
         ],
         "cioc": "NEP",
+        "linearGradients": "rgb(220, 20, 60),rgb(223, 46, 81),rgb(227, 72, 103),rgb(231, 98, 125),rgb(235, 124, 146),rgb(239, 150, 168),rgb(243, 176, 190),rgb(247, 202, 211),rgb(251, 228, 233),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -29337,6 +29494,7 @@ export default [
             }
         ],
         "cioc": "NED",
+        "linearGradients": "rgb(33, 70, 139),rgb(78, 106, 160),rgb(116, 131, 174),rgb(147, 147, 179),rgb(170, 153, 176),rgb(186, 148, 165),rgb(194, 133, 146),rgb(195, 108, 119),rgb(188, 73, 83),rgb(174, 28, 40)",
         "populationHistory": {
             "years": [
                 1960,
@@ -29522,6 +29680,7 @@ export default [
         "flag": "https://restcountries.eu/data/ncl.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 149, 67),rgb(62, 123, 66),rgb(98, 104, 72),rgb(114, 93, 81),rgb(119, 89, 90),rgb(120, 95, 94),rgb(126, 111, 91),rgb(144, 138, 76),rgb(183, 177, 47),rgb(250, 230, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -29718,6 +29877,7 @@ export default [
         "flag": "https://restcountries.eu/data/nzl.svg",
         "regionalBlocs": [],
         "cioc": "NZL",
+        "linearGradients": "rgb(0, 36, 125),rgb(52, 79, 149),rgb(98, 110, 165),rgb(136, 131, 173),rgb(166, 140, 173),rgb(188, 139, 163),rgb(204, 126, 146),rgb(211, 102, 120),rgb(211, 66, 85),rgb(204, 20, 43)",
         "populationHistory": {
             "years": [
                 1960,
@@ -29919,6 +30079,7 @@ export default [
             }
         ],
         "cioc": "NCA",
+        "linearGradients": "rgb(0, 0, 0),rgb(3, 23, 42),rgb(12, 48, 81),rgb(28, 74, 116),rgb(50, 101, 148),rgb(78, 129, 176),rgb(113, 159, 201),rgb(154, 189, 222),rgb(201, 221, 240),rgb(255, 255, 255),rgb(200, 164, 0),rgb(165, 167, 46),rgb(141, 165, 81),rgb(127, 158, 104),rgb(123, 145, 116),rgb(129, 127, 116),rgb(145, 103, 104),rgb(172, 74, 81),rgb(208, 39, 46),rgb(255, 0, 0),rgb(255, 102, 0),rgb(251, 134, 0),rgb(242, 162, 0),rgb(226, 187, 0),rgb(204, 207, 0),rgb(176, 224, 0),rgb(141, 238, 0),rgb(100, 247, 0),rgb(53, 253, 0),rgb(0, 255, 0),rgb(0, 204, 255),rgb(1, 161, 253),rgb(6, 123, 248),rgb(14, 90, 240),rgb(25, 62, 229),rgb(39, 40, 215),rgb(56, 22, 198),rgb(77, 10, 178),rgb(101, 2, 154),rgb(128, 0, 128),rgb(81, 0, 0),rgb(116, 8, 8),rgb(144, 14, 14),rgb(165, 18, 18),rgb(179, 20, 20),rgb(186, 20, 20),rgb(186, 18, 18),rgb(179, 14, 14),rgb(165, 8, 8),rgb(145, 0, 0),rgb(255, 58, 58),rgb(243, 89, 52),rgb(232, 117, 47),rgb(220, 141, 43),rgb(209, 160, 39),rgb(197, 176, 37),rgb(186, 188, 35),rgb(174, 196, 35),rgb(162, 200, 35),rgb(151, 201, 36),rgb(237, 231, 31),rgb(224, 222, 33),rgb(211, 216, 35),rgb(198, 210, 38),rgb(187, 206, 41),rgb(176, 202, 44),rgb(166, 199, 46),rgb(158, 196, 48),rgb(151, 192, 48),rgb(147, 188, 48)",
         "populationHistory": {
             "years": [
                 1960,
@@ -30128,6 +30289,7 @@ export default [
             }
         ],
         "cioc": "NIG",
+        "linearGradients": "rgb(13, 176, 43),rgb(63, 190, 84),rgb(107, 198, 114),rgb(144, 200, 133),rgb(174, 196, 140),rgb(197, 186, 136),rgb(214, 169, 120),rgb(224, 146, 93),rgb(227, 117, 55),rgb(224, 82, 6)",
         "populationHistory": {
             "years": [
                 1960,
@@ -30334,6 +30496,7 @@ export default [
             }
         ],
         "cioc": "NGR",
+        "linearGradients": "rgb(0, 135, 81),rgb(28, 148, 100),rgb(56, 161, 119),rgb(85, 175, 139),rgb(113, 188, 158),rgb(141, 201, 177),rgb(170, 215, 197),rgb(198, 228, 216),rgb(226, 241, 235),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -30524,6 +30687,7 @@ export default [
         "flag": "https://restcountries.eu/data/niu.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 40, 104),rgb(28, 58, 94),rgb(56, 77, 85),rgb(84, 96, 76),rgb(112, 115, 67),rgb(140, 133, 58),rgb(168, 152, 49),rgb(195, 171, 40),rgb(224, 190, 31),rgb(252, 209, 22)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -30591,6 +30755,7 @@ export default [
         "flag": "https://restcountries.eu/data/nfk.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 121, 52),rgb(28, 135, 74),rgb(56, 150, 97),rgb(85, 165, 119),rgb(113, 180, 142),rgb(141, 195, 164),rgb(170, 210, 187),rgb(198, 225, 209),rgb(226, 240, 232),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -30663,6 +30828,7 @@ export default [
         "flag": "https://restcountries.eu/data/prk.svg",
         "regionalBlocs": [],
         "cioc": "PRK",
+        "linearGradients": "rgb(2, 79, 162),rgb(54, 113, 178),rgb(101, 137, 188),rgb(140, 151, 189),rgb(173, 155, 183),rgb(199, 150, 169),rgb(218, 134, 148),rgb(231, 108, 119),rgb(237, 73, 83),rgb(237, 28, 39)",
         "populationHistory": {
             "years": [
                 1960,
@@ -30856,6 +31022,7 @@ export default [
         "flag": "https://restcountries.eu/data/mnp.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 113, 188),rgb(53, 142, 200),rgb(100, 167, 207),rgb(140, 188, 209),rgb(174, 204, 206),rgb(202, 217, 198),rgb(223, 225, 185),rgb(237, 228, 167),rgb(245, 227, 143),rgb(247, 223, 115),rgb(140, 24, 0),rgb(118, 43, 2),rgb(101, 57, 8),rgb(88, 67, 20),rgb(80, 71, 35),rgb(76, 71, 55),rgb(77, 67, 80),rgb(83, 57, 109),rgb(92, 43, 143),rgb(107, 24, 181),rgb(255, 210, 0),rgb(246, 163, 4),rgb(240, 139, 7),rgb(236, 132, 12),rgb(231, 136, 18),rgb(224, 146, 29),rgb(213, 156, 45),rgb(197, 162, 67),rgb(173, 158, 98),rgb(140, 138, 140)",
         "populationHistory": {
             "years": [
                 1960,
@@ -31069,6 +31236,7 @@ export default [
             }
         ],
         "cioc": "NOR",
+        "linearGradients": "rgb(239, 43, 45),rgb(239, 84, 87),rgb(232, 116, 120),rgb(219, 136, 144),rgb(199, 147, 160),rgb(173, 146, 166),rgb(139, 135, 164),rgb(99, 114, 153),rgb(53, 82, 133),rgb(0, 40, 104)",
         "populationHistory": {
             "years": [
                 1960,
@@ -31271,6 +31439,7 @@ export default [
             }
         ],
         "cioc": "OMA",
+        "linearGradients": "rgb(219, 22, 27),rgb(223, 69, 71),rgb(220, 107, 104),rgb(210, 137, 125),rgb(193, 158, 134),rgb(169, 169, 131),rgb(137, 172, 116),rgb(98, 166, 89),rgb(53, 151, 50),rgb(0, 128, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -31477,6 +31646,7 @@ export default [
             }
         ],
         "cioc": "PAK",
+        "linearGradients": "rgb(255, 255, 255),rgb(226, 233, 229),rgb(198, 212, 204),rgb(170, 191, 179),rgb(142, 170, 154),rgb(113, 149, 128),rgb(85, 128, 103),rgb(57, 107, 78),rgb(29, 86, 53),rgb(1, 65, 28)",
         "populationHistory": {
             "years": [
                 1960,
@@ -31669,6 +31839,7 @@ export default [
         "flag": "https://restcountries.eu/data/plw.svg",
         "regionalBlocs": [],
         "cioc": "PLW",
+        "linearGradients": "rgb(74, 173, 214),rgb(94, 178, 190),rgb(114, 183, 166),rgb(134, 189, 142),rgb(154, 194, 118),rgb(174, 200, 95),rgb(194, 205, 71),rgb(214, 211, 47),rgb(234, 216, 23),rgb(255, 222, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -31871,6 +32042,7 @@ export default [
             }
         ],
         "cioc": "PLE",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 225, 214),rgb(164, 197, 177),rgb(136, 169, 144),rgb(119, 142, 116),rgb(113, 115, 92),rgb(119, 90, 72),rgb(137, 65, 56),rgb(165, 40, 45),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1990,
@@ -32017,6 +32189,7 @@ export default [
             }
         ],
         "cioc": "PAN",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 217, 231),rgb(164, 183, 207),rgb(136, 151, 184),rgb(120, 122, 161),rgb(115, 95, 139),rgb(121, 71, 116),rgb(139, 50, 94),rgb(169, 31, 73),rgb(210, 16, 52)",
         "populationHistory": {
             "years": [
                 1960,
@@ -32206,6 +32379,7 @@ export default [
         "flag": "https://restcountries.eu/data/png.svg",
         "regionalBlocs": [],
         "cioc": "PNG",
+        "linearGradients": "rgb(0, 0, 0),rgb(62, 11, 11),rgb(114, 33, 20),rgb(157, 63, 31),rgb(190, 98, 45),rgb(215, 135, 65),rgb(233, 172, 93),rgb(245, 206, 133),rgb(252, 234, 186),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -32420,6 +32594,7 @@ export default [
             }
         ],
         "cioc": "PAR",
+        "linearGradients": "rgb(0, 56, 168),rgb(52, 95, 183),rgb(98, 124, 191),rgb(137, 143, 191),rgb(168, 151, 183),rgb(191, 150, 168),rgb(208, 138, 145),rgb(217, 116, 114),rgb(218, 85, 76),rgb(213, 43, 30),rgb(0, 0, 0),rgb(3, 33, 11),rgb(12, 64, 20),rgb(28, 93, 25),rgb(50, 120, 28),rgb(78, 145, 28),rgb(112, 168, 25),rgb(153, 188, 20),rgb(200, 206, 11),rgb(254, 223, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -32637,6 +32812,7 @@ export default [
             }
         ],
         "cioc": "PER",
+        "linearGradients": "rgb(217, 16, 35),rgb(198, 37, 48),rgb(180, 59, 61),rgb(162, 81, 74),rgb(143, 102, 87),rgb(125, 124, 100),rgb(107, 146, 113),rgb(88, 167, 126),rgb(70, 189, 139),rgb(52, 211, 153)",
         "populationHistory": {
             "years": [
                 1960,
@@ -32831,6 +33007,7 @@ export default [
             }
         ],
         "cioc": "PHI",
+        "linearGradients": "rgb(0, 56, 168),rgb(62, 52, 136),rgb(115, 64, 123),rgb(157, 88, 124),rgb(190, 118, 130),rgb(215, 151, 135),rgb(233, 181, 134),rgb(245, 203, 119),rgb(250, 214, 84),rgb(252, 209, 22)",
         "populationHistory": {
             "years": [
                 1960,
@@ -33022,6 +33199,7 @@ export default [
         "flag": "https://restcountries.eu/data/pcn.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 36, 125),rgb(49, 74, 103),rgb(87, 104, 85),rgb(115, 128, 69),rgb(132, 144, 56),rgb(137, 153, 46),rgb(132, 154, 38),rgb(116, 148, 34),rgb(89, 135, 32),rgb(51, 115, 33),rgb(49, 109, 58),rgb(41, 111, 88),rgb(42, 116, 116),rgb(50, 125, 142),rgb(65, 138, 166),rgb(88, 154, 188),rgb(118, 174, 208),rgb(156, 197, 225),rgb(202, 224, 241),rgb(255, 255, 255),rgb(229, 229, 229),rgb(200, 196, 193),rgb(170, 162, 158),rgb(142, 128, 125),rgb(119, 96, 94),rgb(104, 67, 68),rgb(103, 44, 49),rgb(117, 27, 37),rgb(150, 18, 34),rgb(207, 20, 43)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -33104,6 +33282,7 @@ export default [
             }
         ],
         "cioc": "POL",
+        "linearGradients": "rgb(255, 255, 255),rgb(251, 228, 233),rgb(247, 202, 211),rgb(243, 176, 190),rgb(239, 150, 168),rgb(235, 124, 146),rgb(231, 98, 125),rgb(227, 72, 103),rgb(223, 46, 81),rgb(220, 20, 60)",
         "populationHistory": {
             "years": [
                 1960,
@@ -33302,6 +33481,7 @@ export default [
             }
         ],
         "cioc": "POR",
+        "linearGradients": "rgb(255, 0, 0),rgb(204, 23, 0),rgb(166, 47, 0),rgb(141, 73, 0),rgb(129, 100, 0),rgb(129, 129, 0),rgb(141, 158, 0),rgb(166, 189, 0),rgb(204, 221, 0),rgb(255, 255, 0),rgb(255, 255, 255),rgb(201, 202, 203),rgb(154, 156, 161),rgb(113, 119, 130),rgb(78, 88, 108),rgb(50, 66, 97),rgb(28, 51, 96),rgb(12, 43, 105),rgb(3, 43, 124),rgb(0, 51, 153)",
         "populationHistory": {
             "years": [
                 1960,
@@ -33496,6 +33676,7 @@ export default [
         "flag": "https://restcountries.eu/data/pri.svg",
         "regionalBlocs": [],
         "cioc": "PUR",
+        "linearGradients": "rgb(237, 0, 0),rgb(210, 8, 26),rgb(184, 17, 53),rgb(158, 26, 80),rgb(131, 35, 106),rgb(105, 44, 133),rgb(79, 53, 160),rgb(52, 62, 186),rgb(26, 71, 213),rgb(0, 80, 240)",
         "populationHistory": {
             "years": [
                 1960,
@@ -33696,6 +33877,7 @@ export default [
             }
         ],
         "cioc": "QAT",
+        "linearGradients": "rgb(141, 27, 61),rgb(153, 52, 82),rgb(166, 77, 104),rgb(179, 103, 125),rgb(191, 128, 147),rgb(204, 153, 168),rgb(217, 179, 190),rgb(229, 204, 211),rgb(242, 229, 233),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -33900,6 +34082,7 @@ export default [
             }
         ],
         "cioc": null,
+        "linearGradients": "rgb(255, 255, 255),rgb(211, 218, 235),rgb(176, 188, 215),rgb(152, 164, 195),rgb(137, 148, 175),rgb(132, 138, 156),rgb(136, 135, 137),rgb(150, 138, 118),rgb(174, 148, 98),rgb(208, 166, 80)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -33979,6 +34162,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(237, 41, 57),rgb(237, 83, 97),rgb(231, 114, 129),rgb(218, 135, 155),rgb(199, 145, 172),rgb(172, 144, 183),rgb(139, 133, 185),rgb(99, 111, 181),rgb(53, 78, 168),rgb(0, 35, 149)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -34060,6 +34244,7 @@ export default [
             }
         ],
         "cioc": "ROU",
+        "linearGradients": "rgb(0, 43, 127),rgb(52, 75, 105),rgb(97, 99, 86),rgb(134, 113, 70),rgb(165, 119, 57),rgb(188, 116, 47),rgb(203, 105, 40),rgb(211, 84, 36),rgb(212, 55, 35),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -34281,6 +34466,7 @@ export default [
             }
         ],
         "cioc": "RUS",
+        "linearGradients": "rgb(255, 255, 255),rgb(243, 210, 209),rgb(227, 171, 172),rgb(208, 138, 145),rgb(183, 111, 126),rgb(155, 89, 116),rgb(123, 72, 115),rgb(86, 61, 123),rgb(45, 56, 140),rgb(0, 57, 166)",
         "populationHistory": {
             "years": [
                 1960,
@@ -34499,6 +34685,7 @@ export default [
             }
         ],
         "cioc": "RWA",
+        "linearGradients": "rgb(0, 161, 222),rgb(67, 171, 158),rgb(107, 173, 111),rgb(126, 169, 79),rgb(133, 162, 58),rgb(134, 155, 45),rgb(137, 151, 35),rgb(149, 154, 27),rgb(177, 165, 17),rgb(229, 190, 1)",
         "populationHistory": {
             "years": [
                 1960,
@@ -34687,6 +34874,7 @@ export default [
         "flag": "https://restcountries.eu/data/blm.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(255, 255, 255),rgb(245, 207, 211),rgb(237, 171, 178),rgb(232, 147, 156),rgb(229, 135, 144),rgb(229, 134, 142),rgb(231, 145, 151),rgb(235, 167, 170),rgb(241, 202, 200),rgb(250, 248, 240),rgb(246, 228, 190),rgb(197, 182, 150),rgb(160, 148, 116),rgb(135, 124, 88),rgb(122, 111, 65),rgb(120, 108, 48),rgb(131, 116, 37),rgb(153, 135, 31),rgb(187, 165, 30),rgb(234, 206, 36),rgb(19, 83, 180),rgb(42, 88, 144),rgb(65, 95, 118),rgb(88, 104, 102),rgb(109, 116, 95),rgb(129, 129, 98),rgb(149, 145, 110),rgb(168, 162, 132),rgb(186, 182, 163),rgb(204, 204, 204),rgb(255, 128, 128),rgb(240, 101, 109),rgb(228, 78, 94),rgb(219, 60, 82),rgb(211, 45, 72),rgb(206, 34, 66),rgb(203, 27, 62),rgb(202, 24, 61),rgb(203, 25, 64),rgb(207, 30, 69),rgb(255, 8, 60),rgb(255, 36, 87),rgb(254, 57, 106),rgb(255, 71, 117),rgb(255, 78, 119),rgb(255, 77, 112),rgb(255, 68, 97),rgb(255, 53, 73),rgb(255, 30, 41),rgb(255, 0, 0)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -34765,6 +34953,7 @@ export default [
             }
         ],
         "cioc": null,
+        "linearGradients": "rgb(0, 0, 158),rgb(2, 7, 150),rgb(11, 12, 141),rgb(26, 16, 130),rgb(47, 19, 119),rgb(73, 19, 106),rgb(106, 19, 93),rgb(144, 16, 78),rgb(188, 12, 62),rgb(239, 7, 45),rgb(207, 20, 43),rgb(180, 51, 87),rgb(159, 79, 126),rgb(143, 105, 160),rgb(131, 128, 189),rgb(124, 147, 213),rgb(121, 164, 231),rgb(124, 178, 244),rgb(131, 189, 252),rgb(143, 197, 255),rgb(54, 108, 201),rgb(63, 96, 158),rgb(75, 87, 121),rgb(88, 80, 89),rgb(103, 76, 62),rgb(120, 75, 39),rgb(139, 77, 22),rgb(160, 81, 9),rgb(182, 88, 2),rgb(207, 98, 0),rgb(0, 184, 0),rgb(0, 187, 10),rgb(0, 191, 21),rgb(0, 194, 32),rgb(0, 198, 42),rgb(0, 201, 53),rgb(0, 205, 64),rgb(0, 208, 74),rgb(0, 212, 85),rgb(0, 216, 96)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -34842,6 +35031,7 @@ export default [
             }
         ],
         "cioc": "SKN",
+        "linearGradients": "rgb(0, 158, 73),rgb(43, 131, 68),rgb(83, 114, 69),rgb(119, 106, 77),rgb(152, 107, 91),rgb(180, 118, 111),rgb(204, 138, 138),rgb(225, 167, 170),rgb(242, 206, 209),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -35038,6 +35228,7 @@ export default [
             }
         ],
         "cioc": "LCA",
+        "linearGradients": "rgb(102, 204, 255),rgb(134, 214, 252),rgb(162, 221, 243),rgb(186, 227, 229),rgb(207, 230, 208),rgb(223, 230, 183),rgb(236, 228, 151),rgb(245, 224, 114),rgb(250, 218, 70),rgb(252, 209, 22)",
         "populationHistory": {
             "years": [
                 1960,
@@ -35242,6 +35433,7 @@ export default [
         "flag": "https://restcountries.eu/data/maf.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(237, 41, 57),rgb(237, 83, 97),rgb(231, 114, 129),rgb(218, 135, 155),rgb(199, 145, 172),rgb(172, 144, 183),rgb(139, 133, 185),rgb(99, 111, 181),rgb(53, 78, 168),rgb(0, 35, 149)",
         "populationHistory": {
             "years": [
                 1960,
@@ -35428,6 +35620,7 @@ export default [
         "flag": "https://restcountries.eu/data/spm.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(255, 255, 255),rgb(203, 201, 201),rgb(164, 154, 154),rgb(135, 113, 113),rgb(118, 78, 78),rgb(112, 50, 50),rgb(118, 28, 28),rgb(134, 12, 12),rgb(162, 3, 3),rgb(202, 0, 0),rgb(0, 146, 200),rgb(51, 155, 158),rgb(90, 159, 120),rgb(119, 156, 88),rgb(137, 146, 61),rgb(143, 130, 39),rgb(138, 107, 22),rgb(122, 78, 9),rgb(95, 42, 2),rgb(57, 0, 0),rgb(255, 207, 0),rgb(186, 184, 53),rgb(145, 161, 84),rgb(124, 139, 98),rgb(116, 120, 98),rgb(112, 106, 90),rgb(107, 100, 78),rgb(91, 103, 67),rgb(58, 119, 61),rgb(0, 149, 67)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -35504,6 +35697,7 @@ export default [
             }
         ],
         "cioc": "VIN",
+        "linearGradients": "rgb(0, 158, 96),rgb(49, 167, 82),rgb(87, 173, 75),rgb(112, 175, 74),rgb(124, 174, 79),rgb(124, 169, 90),rgb(112, 161, 108),rgb(87, 149, 132),rgb(49, 133, 161),rgb(0, 114, 198)",
         "populationHistory": {
             "years": [
                 1960,
@@ -35697,6 +35891,7 @@ export default [
         "flag": "https://restcountries.eu/data/wsm.svg",
         "regionalBlocs": [],
         "cioc": "SAM",
+        "linearGradients": "rgb(206, 17, 38),rgb(165, 25, 58),rgb(137, 37, 79),rgb(119, 55, 101),rgb(113, 76, 124),rgb(119, 103, 148),rgb(136, 134, 174),rgb(164, 169, 200),rgb(204, 210, 227),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -35886,6 +36081,7 @@ export default [
         "flag": "https://restcountries.eu/data/smr.svg",
         "regionalBlocs": [],
         "cioc": "SMR",
+        "linearGradients": "rgb(255, 255, 255),rgb(220, 237, 246),rgb(186, 217, 233),rgb(155, 194, 214),rgb(125, 168, 191),rgb(96, 140, 162),rgb(70, 109, 129),rgb(45, 75, 91),rgb(21, 39, 48),rgb(0, 0, 0),rgb(101, 141, 92),rgb(114, 139, 89),rgb(128, 138, 86),rgb(141, 138, 83),rgb(155, 139, 79),rgb(167, 141, 74),rgb(180, 144, 68),rgb(192, 148, 62),rgb(205, 153, 56),rgb(217, 159, 49),rgb(241, 191, 49),rgb(207, 173, 54),rgb(181, 161, 64),rgb(165, 155, 78),rgb(156, 155, 96),rgb(156, 161, 117),rgb(165, 172, 142),rgb(181, 189, 171),rgb(207, 212, 205),rgb(241, 241, 242),rgb(160, 207, 235),rgb(157, 202, 211),rgb(157, 199, 193),rgb(157, 196, 179),rgb(159, 193, 170),rgb(163, 192, 165),rgb(167, 191, 165),rgb(173, 190, 170),rgb(180, 190, 179),rgb(189, 191, 193)",
         "populationHistory": {
             "years": [
                 1960,
@@ -36086,6 +36282,7 @@ export default [
             }
         ],
         "cioc": "STP",
+        "linearGradients": "rgb(18, 173, 43),rgb(86, 176, 31),rgb(135, 166, 26),rgb(165, 146, 24),rgb(177, 119, 24),rgb(171, 89, 25),rgb(150, 59, 24),rgb(114, 32, 21),rgb(63, 11, 13),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -36292,6 +36489,7 @@ export default [
             }
         ],
         "cioc": "KSA",
+        "linearGradients": "rgb(0, 108, 53),rgb(28, 124, 75),rgb(56, 140, 97),rgb(85, 157, 120),rgb(113, 173, 142),rgb(141, 189, 165),rgb(170, 206, 187),rgb(198, 222, 210),rgb(226, 238, 232),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -36498,6 +36696,7 @@ export default [
             }
         ],
         "cioc": "SEN",
+        "linearGradients": "rgb(0, 133, 63),rgb(52, 152, 63),rgb(98, 164, 62),rgb(137, 168, 61),rgb(169, 164, 58),rgb(195, 152, 55),rgb(213, 133, 51),rgb(224, 105, 47),rgb(229, 70, 41),rgb(227, 27, 35)",
         "populationHistory": {
             "years": [
                 1960,
@@ -36703,6 +36902,7 @@ export default [
             }
         ],
         "cioc": "SRB",
+        "linearGradients": "rgb(255, 255, 255),rgb(206, 214, 225),rgb(168, 179, 198),rgb(140, 147, 172),rgb(123, 120, 148),rgb(117, 98, 127),rgb(121, 80, 107),rgb(136, 67, 89),rgb(161, 58, 73),rgb(198, 54, 60),rgb(33, 35, 30),rgb(55, 51, 31),rgb(78, 68, 33),rgb(101, 85, 35),rgb(123, 101, 37),rgb(146, 118, 38),rgb(169, 135, 40),rgb(191, 151, 42),rgb(214, 168, 44),rgb(237, 185, 46)",
         "populationHistory": {
             "years": [
                 1990,
@@ -36850,6 +37050,7 @@ export default [
             }
         ],
         "cioc": "SEY",
+        "linearGradients": "rgb(214, 40, 40),rgb(218, 75, 50),rgb(216, 101, 60),rgb(207, 120, 71),rgb(190, 131, 81),rgb(166, 134, 92),rgb(135, 128, 102),rgb(97, 114, 113),rgb(52, 92, 124),rgb(0, 63, 135),rgb(255, 255, 255),rgb(226, 240, 233),rgb(198, 225, 211),rgb(170, 210, 190),rgb(141, 195, 168),rgb(113, 181, 147),rgb(85, 166, 125),rgb(56, 151, 104),rgb(28, 136, 82),rgb(0, 122, 61)",
         "populationHistory": {
             "years": [
                 1960,
@@ -37052,6 +37253,7 @@ export default [
             }
         ],
         "cioc": "SLE",
+        "linearGradients": "rgb(30, 181, 58),rgb(26, 168, 88),rgb(30, 161, 116),rgb(41, 159, 142),rgb(59, 162, 166),rgb(84, 170, 187),rgb(116, 184, 207),rgb(155, 202, 225),rgb(201, 226, 241),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -37270,6 +37472,7 @@ export default [
             }
         ],
         "cioc": "SIN",
+        "linearGradients": "rgb(237, 41, 57),rgb(239, 64, 79),rgb(241, 88, 101),rgb(243, 112, 123),rgb(245, 136, 145),rgb(247, 159, 167),rgb(249, 183, 189),rgb(251, 207, 211),rgb(253, 231, 233),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -37463,6 +37666,7 @@ export default [
         "flag": "https://restcountries.eu/data/sxm.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 0, 0),rgb(53, 53, 0),rgb(100, 98, 0),rgb(141, 137, 1),rgb(175, 168, 2),rgb(202, 192, 4),rgb(224, 209, 6),rgb(238, 219, 9),rgb(247, 221, 11),rgb(249, 217, 15),rgb(220, 23, 29),rgb(196, 55, 70),rgb(179, 87, 107),rgb(169, 116, 141),rgb(166, 143, 170),rgb(170, 169, 195),rgb(181, 193, 216),rgb(198, 215, 233),rgb(223, 236, 246),rgb(255, 255, 255),rgb(126, 126, 126),rgb(148, 136, 104),rgb(162, 141, 88),rgb(166, 141, 77),rgb(162, 137, 72),rgb(148, 127, 73),rgb(125, 113, 80),rgb(92, 94, 93),rgb(51, 70, 111),rgb(1, 42, 135),rgb(188, 113, 95),rgb(167, 115, 89),rgb(146, 118, 84),rgb(125, 120, 79),rgb(104, 123, 74),rgb(83, 125, 68),rgb(62, 128, 63),rgb(41, 130, 58),rgb(20, 133, 53),rgb(0, 136, 48)",
         "populationHistory": {
             "years": [
                 1998,
@@ -37587,6 +37791,7 @@ export default [
             }
         ],
         "cioc": "SVK",
+        "linearGradients": "rgb(238, 28, 37),rgb(193, 40, 64),rgb(160, 56, 90),rgb(139, 75, 116),rgb(129, 97, 141),rgb(131, 122, 166),rgb(144, 151, 189),rgb(169, 182, 212),rgb(206, 217, 233),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -37786,6 +37991,7 @@ export default [
             }
         ],
         "cioc": "SLO",
+        "linearGradients": "rgb(237, 28, 36),rgb(175, 52, 76),rgb(143, 82, 112),rgb(136, 114, 140),rgb(146, 146, 157),rgb(169, 175, 162),rgb(197, 200, 151),rgb(225, 217, 122),rgb(246, 225, 72),rgb(255, 221, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -37971,6 +38177,7 @@ export default [
         "flag": "https://restcountries.eu/data/slb.svg",
         "regionalBlocs": [],
         "cioc": "SOL",
+        "linearGradients": "rgb(0, 81, 186),rgb(9, 85, 160),rgb(24, 93, 142),rgb(43, 104, 133),rgb(66, 120, 132),rgb(95, 139, 140),rgb(128, 162, 156),rgb(165, 189, 181),rgb(208, 220, 213),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -38193,6 +38400,7 @@ export default [
             }
         ],
         "cioc": "SOM",
+        "linearGradients": "rgb(65, 137, 221),rgb(86, 150, 224),rgb(107, 163, 228),rgb(128, 176, 232),rgb(149, 189, 236),rgb(170, 202, 239),rgb(191, 215, 243),rgb(212, 228, 247),rgb(233, 241, 251),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -38455,6 +38663,7 @@ export default [
             }
         ],
         "cioc": "RSA",
+        "linearGradients": "rgb(0, 35, 149),rgb(24, 37, 137),rgb(49, 39, 126),rgb(74, 42, 115),rgb(98, 44, 104),rgb(123, 46, 93),rgb(148, 49, 82),rgb(172, 51, 71),rgb(197, 53, 60),rgb(222, 56, 49)",
         "populationHistory": {
             "years": [
                 1960,
@@ -38662,6 +38871,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(0, 36, 125),rgb(52, 79, 149),rgb(98, 110, 165),rgb(136, 131, 173),rgb(166, 140, 173),rgb(189, 139, 163),rgb(205, 126, 146),rgb(213, 102, 120),rgb(213, 66, 85),rgb(207, 20, 43),rgb(106, 76, 45),rgb(103, 79, 55),rgb(99, 79, 61),rgb(92, 77, 64),rgb(82, 71, 62),rgb(70, 63, 57),rgb(56, 52, 49),rgb(40, 37, 36),rgb(21, 20, 20),rgb(0, 0, 0),rgb(255, 187, 0),rgb(201, 171, 12),rgb(154, 157, 21),rgb(113, 145, 27),rgb(78, 134, 30),rgb(50, 125, 30),rgb(28, 118, 27),rgb(12, 113, 21),rgb(3, 109, 12),rgb(0, 107, 0),rgb(255, 201, 0),rgb(244, 192, 16),rgb(236, 181, 29),rgb(230, 166, 38),rgb(225, 147, 42),rgb(223, 125, 42),rgb(222, 99, 38),rgb(223, 69, 29),rgb(226, 36, 16),rgb(232, 0, 0),rgb(192, 21, 0),rgb(164, 50, 44),rgb(139, 73, 81),rgb(116, 92, 113),rgb(96, 105, 137),rgb(78, 112, 156),rgb(62, 115, 168),rgb(49, 112, 174),rgb(38, 103, 173),rgb(30, 90, 166),rgb(255, 112, 0),rgb(243, 108, 2),rgb(233, 109, 10),rgb(224, 112, 22),rgb(217, 119, 40),rgb(211, 130, 63),rgb(207, 143, 91),rgb(204, 160, 124),rgb(203, 180, 161),rgb(204, 204, 205),rgb(0, 0, 255),rgb(31, 15, 204),rgb(63, 34, 166),rgb(93, 56, 141),rgb(122, 81, 129),rgb(150, 109, 129),rgb(178, 140, 141),rgb(204, 175, 166),rgb(230, 213, 204),rgb(255, 254, 255),rgb(94, 0, 67),rgb(90, 16, 69),rgb(90, 33, 74),rgb(93, 51, 81),rgb(99, 71, 92),rgb(109, 91, 105),rgb(122, 112, 121),rgb(138, 134, 139),rgb(157, 157, 161),rgb(180, 182, 185),rgb(138, 147, 150),rgb(150, 157, 159),rgb(156, 162, 164),rgb(157, 162, 163),rgb(152, 156, 157),rgb(142, 144, 145),rgb(126, 127, 127),rgb(104, 104, 104),rgb(76, 76, 76),rgb(43, 43, 43)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -38730,6 +38940,7 @@ export default [
         "flag": "https://restcountries.eu/data/kor.svg",
         "regionalBlocs": [],
         "cioc": "KOR",
+        "linearGradients": "rgb(255, 255, 255),rgb(240, 204, 212),rgb(222, 160, 176),rgb(201, 124, 148),rgb(176, 94, 126),rgb(148, 72, 111),rgb(116, 56, 103),rgb(81, 48, 101),rgb(42, 46, 107),rgb(0, 52, 120)",
         "populationHistory": {
             "years": [
                 1960,
@@ -38935,6 +39146,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(252, 221, 9),rgb(203, 204, 19),rgb(167, 193, 34),rgb(143, 187, 53),rgb(131, 186, 76),rgb(131, 190, 104),rgb(144, 198, 135),rgb(169, 212, 171),rgb(205, 231, 211),rgb(255, 255, 255),rgb(0, 0, 0),rgb(43, 4, 7),rgb(76, 9, 17),rgb(98, 15, 31),rgb(110, 22, 47),rgb(112, 30, 66),rgb(103, 39, 89),rgb(84, 49, 114),rgb(54, 59, 143),rgb(15, 71, 175)",
         "populationHistory": {
             "years": [
                 1960,
@@ -39136,6 +39348,7 @@ export default [
             }
         ],
         "cioc": "ESP",
+        "linearGradients": "rgb(198, 11, 30),rgb(208, 47, 24),rgb(216, 75, 19),rgb(220, 94, 16),rgb(221, 104, 14),rgb(218, 105, 13),rgb(212, 97, 14),rgb(202, 81, 16),rgb(189, 55, 20),rgb(173, 21, 25),rgb(200, 177, 0),rgb(208, 191, 51),rgb(209, 202, 93),rgb(202, 207, 125),rgb(188, 208, 147),rgb(166, 204, 159),rgb(137, 196, 162),rgb(101, 182, 154),rgb(56, 164, 137),rgb(5, 142, 110),rgb(0, 91, 191),rgb(42, 114, 191),rgb(80, 134, 186),rgb(112, 151, 175),rgb(140, 164, 159),rgb(162, 174, 138),rgb(179, 181, 111),rgb(190, 184, 79),rgb(197, 184, 42),rgb(199, 181, 0),rgb(219, 68, 70),rgb(224, 84, 99),rgb(228, 103, 120),rgb(226, 120, 137),rgb(219, 134, 150),rgb(202, 141, 162),rgb(174, 139, 175),rgb(132, 127, 191),rgb(75, 100, 212),rgb(0, 57, 240)",
         "populationHistory": {
             "years": [
                 1960,
@@ -39338,6 +39551,7 @@ export default [
             }
         ],
         "cioc": "SRI",
+        "linearGradients": "rgb(255, 183, 0),rgb(251, 163, 0),rgb(242, 146, 3),rgb(226, 131, 7),rgb(204, 118, 12),rgb(176, 107, 20),rgb(141, 99, 28),rgb(100, 92, 39),rgb(53, 88, 51),rgb(0, 86, 65),rgb(141, 32, 41),rgb(125, 28, 36),rgb(109, 24, 31),rgb(94, 21, 27),rgb(78, 17, 22),rgb(62, 14, 18),rgb(47, 10, 13),rgb(31, 7, 9),rgb(15, 3, 4),rgb(0, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -39562,6 +39776,7 @@ export default [
             }
         ],
         "cioc": "SUD",
+        "linearGradients": "rgb(210, 16, 52),rgb(214, 78, 103),rgb(201, 111, 127),rgb(175, 122, 130),rgb(140, 117, 117),rgb(102, 104, 95),rgb(64, 91, 70),rgb(31, 83, 49),rgb(8, 88, 37),rgb(0, 114, 41)",
         "populationHistory": {
             "years": [
                 1960,
@@ -39782,6 +39997,7 @@ export default [
             }
         ],
         "cioc": "SUR",
+        "linearGradients": "rgb(55, 126, 63),rgb(112, 156, 112),rgb(152, 165, 137),rgb(178, 160, 143),rgb(194, 147, 133),rgb(203, 133, 112),rgb(208, 125, 87),rgb(213, 128, 61),rgb(221, 151, 40),rgb(236, 200, 29)",
         "populationHistory": {
             "years": [
                 1960,
@@ -39968,6 +40184,7 @@ export default [
         "flag": "https://restcountries.eu/data/sjm.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(239, 43, 45),rgb(239, 84, 87),rgb(232, 116, 120),rgb(219, 136, 144),rgb(199, 147, 160),rgb(173, 146, 166),rgb(139, 135, 164),rgb(99, 114, 153),rgb(53, 82, 133),rgb(0, 40, 104)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -40060,6 +40277,7 @@ export default [
             }
         ],
         "cioc": "SWZ",
+        "linearGradients": "rgb(62, 94, 185),rgb(101, 117, 146),rgb(134, 132, 112),rgb(160, 139, 83),rgb(180, 138, 59),rgb(192, 129, 40),rgb(198, 112, 25),rgb(198, 86, 16),rgb(190, 53, 11),rgb(177, 12, 12),rgb(255, 255, 255),rgb(184, 179, 179),rgb(139, 121, 121),rgb(114, 79, 81),rgb(104, 51, 58),rgb(101, 38, 51),rgb(101, 37, 58),rgb(98, 46, 81),rgb(87, 65, 117),rgb(61, 93, 167)",
         "populationHistory": {
             "years": [
                 1960,
@@ -40257,6 +40475,7 @@ export default [
             }
         ],
         "cioc": "SWE",
+        "linearGradients": "rgb(0, 106, 167),rgb(28, 116, 148),rgb(56, 127, 129),rgb(84, 138, 111),rgb(112, 149, 92),rgb(141, 160, 74),rgb(169, 171, 55),rgb(197, 182, 37),rgb(225, 193, 18),rgb(254, 204, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -40472,6 +40691,7 @@ export default [
             }
         ],
         "cioc": "SUI",
+        "linearGradients": "rgb(255, 0, 0),rgb(255, 28, 28),rgb(255, 56, 56),rgb(255, 85, 85),rgb(255, 113, 113),rgb(255, 141, 141),rgb(255, 170, 170),rgb(255, 198, 198),rgb(255, 226, 226),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -40676,6 +40896,7 @@ export default [
             }
         ],
         "cioc": "SYR",
+        "linearGradients": "rgb(0, 0, 0),rgb(73, 67, 68),rgb(126, 106, 107),rgb(159, 121, 124),rgb(172, 121, 122),rgb(168, 111, 110),rgb(148, 100, 91),rgb(112, 93, 73),rgb(62, 98, 61),rgb(0, 122, 61)",
         "populationHistory": {
             "years": [
                 1960,
@@ -40865,6 +41086,7 @@ export default [
         "flag": "https://restcountries.eu/data/twn.svg",
         "regionalBlocs": [],
         "cioc": "TPE",
+        "linearGradients": "rgb(254, 0, 0),rgb(203, 3, 32),rgb(166, 12, 64),rgb(141, 28, 94),rgb(128, 50, 123),rgb(128, 78, 152),rgb(141, 113, 179),rgb(166, 154, 205),rgb(204, 201, 230),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -40945,6 +41167,7 @@ export default [
         "flag": "https://restcountries.eu/data/tjk.svg",
         "regionalBlocs": [],
         "cioc": "TJK",
+        "linearGradients": "rgb(0, 102, 0),rgb(74, 139, 67),rgb(129, 152, 102),rgb(167, 150, 113),rgb(193, 139, 104),rgb(210, 126, 83),rgb(220, 118, 56),rgb(228, 122, 29),rgb(236, 145, 8),rgb(248, 195, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -41160,6 +41383,7 @@ export default [
             }
         ],
         "cioc": "TAN",
+        "linearGradients": "rgb(30, 181, 58),rgb(26, 179, 76),rgb(23, 177, 94),rgb(20, 175, 112),rgb(16, 173, 130),rgb(13, 171, 148),rgb(10, 169, 166),rgb(6, 167, 184),rgb(3, 165, 202),rgb(0, 163, 221)",
         "populationHistory": {
             "years": [
                 1960,
@@ -41362,6 +41586,7 @@ export default [
             }
         ],
         "cioc": "THA",
+        "linearGradients": "rgb(237, 28, 36),rgb(238, 72, 79),rgb(233, 106, 113),rgb(222, 129, 138),rgb(206, 140, 152),rgb(183, 140, 157),rgb(155, 129, 152),rgb(121, 107, 137),rgb(81, 73, 113),rgb(36, 29, 79)",
         "populationHistory": {
             "years": [
                 1960,
@@ -41558,6 +41783,7 @@ export default [
         "flag": "https://restcountries.eu/data/tls.svg",
         "regionalBlocs": [],
         "cioc": "TLS",
+        "linearGradients": "rgb(220, 36, 31),rgb(222, 78, 32),rgb(209, 99, 32),rgb(187, 108, 35),rgb(165, 110, 43),rgb(146, 112, 58),rgb(140, 121, 85),rgb(151, 143, 124),rgb(187, 185, 180),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -41763,6 +41989,7 @@ export default [
             }
         ],
         "cioc": "TOG",
+        "linearGradients": "rgb(0, 106, 78),rgb(74, 129, 56),rgb(129, 137, 45),rgb(169, 135, 44),rgb(196, 130, 52),rgb(214, 127, 71),rgb(225, 132, 101),rgb(234, 151, 141),rgb(242, 190, 192),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -41948,6 +42175,7 @@ export default [
         "flag": "https://restcountries.eu/data/tkl.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 36, 125),rgb(53, 72, 101),rgb(100, 106, 88),rgb(141, 137, 83),rgb(175, 164, 88),rgb(204, 189, 103),rgb(226, 210, 127),rgb(242, 228, 160),rgb(251, 243, 203),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -42019,6 +42247,7 @@ export default [
         "flag": "https://restcountries.eu/data/ton.svg",
         "regionalBlocs": [],
         "cioc": "TGA",
+        "linearGradients": "rgb(193, 0, 0),rgb(199, 28, 28),rgb(206, 56, 56),rgb(213, 85, 85),rgb(220, 113, 113),rgb(227, 141, 141),rgb(234, 170, 170),rgb(241, 198, 198),rgb(248, 226, 226),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -42216,6 +42445,7 @@ export default [
             }
         ],
         "cioc": "TTO",
+        "linearGradients": "rgb(206, 17, 38),rgb(188, 38, 50),rgb(171, 60, 63),rgb(154, 81, 76),rgb(137, 103, 89),rgb(120, 124, 101),rgb(103, 146, 114),rgb(86, 167, 127),rgb(69, 189, 140),rgb(52, 211, 153)",
         "populationHistory": {
             "years": [
                 1960,
@@ -42429,6 +42659,7 @@ export default [
             }
         ],
         "cioc": "TUN",
+        "linearGradients": "rgb(231, 0, 19),rgb(233, 28, 45),rgb(236, 56, 71),rgb(239, 85, 97),rgb(241, 113, 123),rgb(244, 141, 150),rgb(247, 170, 176),rgb(249, 198, 202),rgb(252, 226, 228),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -42626,6 +42857,7 @@ export default [
         "flag": "https://restcountries.eu/data/tur.svg",
         "regionalBlocs": [],
         "cioc": "TUR",
+        "linearGradients": "rgb(227, 10, 23),rgb(230, 37, 48),rgb(233, 64, 74),rgb(236, 91, 100),rgb(239, 118, 126),rgb(242, 146, 151),rgb(245, 173, 177),rgb(248, 200, 203),rgb(251, 227, 229),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -42822,6 +43054,7 @@ export default [
         "flag": "https://restcountries.eu/data/tkm.svg",
         "regionalBlocs": [],
         "cioc": "TKM",
+        "linearGradients": "rgb(40, 174, 102),rgb(82, 188, 131),rgb(115, 196, 152),rgb(137, 196, 165),rgb(149, 190, 168),rgb(151, 177, 163),rgb(142, 157, 150),rgb(124, 130, 127),rgb(95, 95, 96),rgb(56, 55, 57),rgb(202, 55, 69),rgb(207, 68, 65),rgb(212, 81, 62),rgb(218, 94, 59),rgb(223, 107, 56),rgb(228, 121, 53),rgb(234, 134, 50),rgb(239, 147, 47),rgb(244, 160, 44),rgb(250, 174, 41)",
         "populationHistory": {
             "years": [
                 1960,
@@ -43007,6 +43240,7 @@ export default [
         "flag": "https://restcountries.eu/data/tca.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(0, 36, 125),rgb(53, 81, 149),rgb(100, 119, 163),rgb(141, 151, 168),rgb(175, 175, 164),rgb(204, 193, 150),rgb(225, 204, 127),rgb(241, 207, 94),rgb(250, 204, 51),rgb(253, 195, 0),rgb(255, 158, 61),rgb(255, 155, 76),rgb(254, 153, 91),rgb(255, 152, 108),rgb(255, 152, 125),rgb(255, 152, 144),rgb(255, 152, 163),rgb(255, 153, 183),rgb(255, 155, 203),rgb(255, 158, 225),rgb(0, 167, 40),rgb(52, 170, 32),rgb(98, 168, 26),rgb(138, 161, 22),rgb(171, 149, 21),rgb(198, 131, 21),rgb(218, 108, 24),rgb(231, 79, 29),rgb(238, 46, 36),rgb(239, 7, 45),rgb(0, 0, 0),rgb(20, 10, 3),rgb(41, 20, 6),rgb(61, 30, 10),rgb(82, 40, 13),rgb(102, 50, 16),rgb(123, 60, 20),rgb(143, 69, 23),rgb(164, 80, 26),rgb(185, 90, 30)",
         "populationHistory": {
             "years": [
                 1960,
@@ -43197,6 +43431,7 @@ export default [
         "flag": "https://restcountries.eu/data/tuv.svg",
         "regionalBlocs": [],
         "cioc": "TUV",
+        "linearGradients": "rgb(255, 206, 0),rgb(202, 171, 26),rgb(158, 144, 51),rgb(123, 124, 75),rgb(96, 111, 96),rgb(78, 105, 116),rgb(68, 106, 134),rgb(67, 113, 150),rgb(75, 128, 164),rgb(91, 151, 177)",
         "populationHistory": {
             "years": [
                 1960,
@@ -43409,6 +43644,7 @@ export default [
             }
         ],
         "cioc": "UGA",
+        "linearGradients": "rgb(252, 220, 4),rgb(242, 163, 11),rgb(237, 134, 32),rgb(233, 128, 63),rgb(230, 136, 98),rgb(225, 152, 132),rgb(217, 170, 159),rgb(204, 183, 176),rgb(184, 184, 176),rgb(156, 166, 156)",
         "populationHistory": {
             "years": [
                 1960,
@@ -43603,6 +43839,7 @@ export default [
         "flag": "https://restcountries.eu/data/ukr.svg",
         "regionalBlocs": [],
         "cioc": "UKR",
+        "linearGradients": "rgb(0, 91, 187),rgb(28, 104, 166),rgb(56, 118, 145),rgb(85, 131, 124),rgb(113, 145, 103),rgb(141, 158, 83),rgb(170, 172, 62),rgb(198, 185, 41),rgb(226, 199, 20),rgb(255, 213, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -43803,6 +44040,7 @@ export default [
             }
         ],
         "cioc": "UAE",
+        "linearGradients": "rgb(0, 115, 47),rgb(53, 141, 87),rgb(100, 157, 116),rgb(141, 164, 134),rgb(176, 161, 140),rgb(204, 148, 135),rgb(226, 126, 118),rgb(242, 93, 90),rgb(251, 51, 50),rgb(255, 0, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -44007,6 +44245,7 @@ export default [
             }
         ],
         "cioc": "GBR",
+        "linearGradients": "rgb(0, 36, 125),rgb(5, 55, 128),rgb(11, 74, 131),rgb(17, 94, 134),rgb(23, 113, 137),rgb(28, 133, 140),rgb(34, 152, 143),rgb(40, 172, 146),rgb(46, 191, 149),rgb(52, 211, 153)",
         "populationHistory": {
             "years": [
                 1960,
@@ -44217,6 +44456,7 @@ export default [
             }
         ],
         "cioc": "USA",
+        "linearGradients": "rgb(255, 255, 255),rgb(237, 208, 213),rgb(218, 168, 177),rgb(199, 135, 148),rgb(178, 107, 126),rgb(156, 85, 110),rgb(134, 69, 100),rgb(110, 60, 97),rgb(85, 56, 100),rgb(60, 59, 110)",
         "populationHistory": {
             "years": [
                 1960,
@@ -44423,6 +44663,7 @@ export default [
             }
         ],
         "cioc": "URU",
+        "linearGradients": "rgb(255, 255, 255),rgb(204, 215, 234),rgb(166, 183, 213),rgb(141, 161, 190),rgb(128, 147, 166),rgb(128, 142, 140),rgb(140, 146, 112),rgb(165, 158, 83),rgb(202, 179, 53),rgb(252, 209, 22)",
         "populationHistory": {
             "years": [
                 1960,
@@ -44623,6 +44864,7 @@ export default [
         "flag": "https://restcountries.eu/data/uzb.svg",
         "regionalBlocs": [],
         "cioc": "UZB",
+        "linearGradients": "rgb(30, 181, 58),rgb(28, 168, 90),rgb(40, 151, 107),rgb(64, 134, 115),rgb(95, 121, 119),rgb(131, 116, 124),rgb(168, 123, 134),rgb(203, 146, 156),rgb(233, 188, 195),rgb(255, 255, 255)",
         "populationHistory": {
             "years": [
                 1960,
@@ -44823,6 +45065,7 @@ export default [
         "flag": "https://restcountries.eu/data/vut.svg",
         "regionalBlocs": [],
         "cioc": "VAN",
+        "linearGradients": "rgb(210, 16, 52),rgb(147, 50, 54),rgb(101, 69, 51),rgb(71, 78, 45),rgb(58, 82, 38),rgb(61, 85, 29),rgb(82, 94, 22),rgb(121, 114, 16),rgb(177, 149, 14),rgb(253, 206, 18)",
         "populationHistory": {
             "years": [
                 1960,
@@ -45030,6 +45273,7 @@ export default [
             }
         ],
         "cioc": "VEN",
+        "linearGradients": "rgb(255, 255, 255),rgb(233, 185, 194),rgb(206, 134, 151),rgb(177, 100, 122),rgb(151, 81, 102),rgb(134, 78, 87),rgb(131, 90, 74),rgb(146, 115, 58),rgb(186, 153, 34),rgb(255, 204, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -45228,6 +45472,7 @@ export default [
             }
         ],
         "cioc": "VIE",
+        "linearGradients": "rgb(218, 37, 29),rgb(222, 61, 25),rgb(226, 85, 22),rgb(230, 109, 19),rgb(234, 133, 16),rgb(238, 158, 12),rgb(242, 182, 9),rgb(246, 206, 6),rgb(250, 230, 3),rgb(255, 255, 0)",
         "populationHistory": {
             "years": [
                 1960,
@@ -45415,6 +45660,7 @@ export default [
         "flag": "https://restcountries.eu/data/wlf.svg",
         "regionalBlocs": [],
         "cioc": "",
+        "linearGradients": "rgb(237, 41, 57),rgb(237, 83, 97),rgb(231, 114, 129),rgb(218, 135, 155),rgb(199, 145, 172),rgb(172, 144, 183),rgb(139, 133, 185),rgb(99, 111, 181),rgb(53, 78, 168),rgb(0, 35, 149)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -45503,6 +45749,7 @@ export default [
             }
         ],
         "cioc": "",
+        "linearGradients": "rgb(0, 0, 0),rgb(8, 40, 24),rgb(31, 78, 54),rgb(63, 111, 84),rgb(101, 135, 111),rgb(138, 148, 129),rgb(171, 145, 134),rgb(195, 124, 122),rgb(204, 83, 88),rgb(196, 17, 27)",
         "populationHistory": {
             "years": [],
             "population": []
@@ -45584,6 +45831,7 @@ export default [
             }
         ],
         "cioc": "YEM",
+        "linearGradients": "rgb(255, 255, 255),rgb(249, 228, 230),rgb(244, 202, 206),rgb(238, 175, 182),rgb(233, 149, 158),rgb(227, 122, 134),rgb(222, 96, 110),rgb(216, 69, 86),rgb(211, 43, 62),rgb(206, 17, 38)",
         "populationHistory": {
             "years": [
                 1960,
@@ -45792,6 +46040,7 @@ export default [
             }
         ],
         "cioc": "ZAM",
+        "linearGradients": "rgb(25, 138, 0),rgb(80, 129, 0),rgb(110, 115, 0),rgb(121, 97, 0),rgb(122, 77, 1),rgb(118, 58, 2),rgb(119, 42, 4),rgb(132, 30, 7),rgb(163, 26, 11),rgb(222, 32, 16)",
         "populationHistory": {
             "years": [
                 1960,
@@ -46048,6 +46297,7 @@ export default [
             }
         ],
         "cioc": "ZIM",
+        "linearGradients": "rgb(49, 146, 8),rgb(91, 157, 6),rgb(128, 162, 5),rgb(159, 161, 5),rgb(184, 155, 5),rgb(204, 142, 6),rgb(217, 123, 8),rgb(224, 99, 10),rgb(226, 68, 12),rgb(222, 32, 16),rgb(0, 0, 0),rgb(53, 52, 50),rgb(100, 97, 89),rgb(141, 135, 116),rgb(176, 165, 130),rgb(204, 187, 133),rgb(226, 201, 124),rgb(242, 207, 102),rgb(251, 206, 69),rgb(255, 198, 24)",
         "populationHistory": {
             "years": [
                 1960,

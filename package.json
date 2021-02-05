@@ -7,13 +7,13 @@
     "start": "node dist/server.js",
     "postinstall": "tsc",
     "dev-production": "nodemon -r dotenv/config dist/server.js dotenv_config_path=.env.local-production",
-    "dev": "nodemon -r dotenv/config dist/server.js; ifconfig",
+    "dev": "nodemon -r dotenv/config dist/server.js",
     "lint": "eslint --fix . --ext .ts"
   },
   "engines": {
     "node": "14.15.3"
   },
-  "author": "Alex",
+  "author": "Alex LU",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
@@ -21,6 +21,8 @@
     "compression": "^1.7.4",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "get-svg-colors": "^1.5.1",
+    "gradstop": "^2.2.3",
     "helmet": "^4.4.1",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.1",
